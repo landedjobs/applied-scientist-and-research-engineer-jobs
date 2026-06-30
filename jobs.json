@@ -1,6 +1,6 @@
 [
   {
-    "slug": "greenhouse-4693117006",
+    "dedupeKey": "greenhouse:4693117006",
     "company": "Inflection AI",
     "companyDomain": "inflection.ai",
     "role": "Principal Research Engineer, Model Training & Post-Training",
@@ -40,7 +40,7 @@
     "posted": "2026-06-29T19:59:46.000Z"
   },
   {
-    "slug": "greenhouse-4693024006",
+    "dedupeKey": "greenhouse:4693024006",
     "company": "Inflection AI",
     "companyDomain": "inflection.ai",
     "role": "Principal Research & Engineering, Realtime Voice AI",
@@ -71,7 +71,7 @@
     "posted": "2026-06-29T18:27:22.000Z"
   },
   {
-    "slug": "ashby-01075d51-1748-4126-a44b-1379c1e1a6e7",
+    "dedupeKey": "ashby:01075d51-1748-4126-a44b-1379c1e1a6e7",
     "company": "Orakl Oncology",
     "companyDomain": "orakl-oncology.com",
     "role": "Senior Scientist — Organoid Model Development ",
@@ -102,7 +102,7 @@
     "posted": "2026-06-29T15:54:15.309Z"
   },
   {
-    "slug": "workday-jr2018564",
+    "dedupeKey": "workday:JR2018564",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Applied AI Researcher, Digital Biology",
@@ -138,7 +138,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2014098",
+    "dedupeKey": "workday:JR2014098",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Applied Research Scientist",
@@ -169,7 +169,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2018130",
+    "dedupeKey": "workday:JR2018130",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Research Scientist",
@@ -196,7 +196,7 @@
     "posted": "2026-06-28T00:00:00.000Z"
   },
   {
-    "slug": "lever-7d3b2a27-56e2-460a-9356-41022d9ed095",
+    "dedupeKey": "lever:7d3b2a27-56e2-460a-9356-41022d9ed095",
     "company": "Ro",
     "companyDomain": "ro.co",
     "role": "Senior Applied AI Scientist",
@@ -226,7 +226,7 @@
     "posted": "2026-06-27T02:17:31.215Z"
   },
   {
-    "slug": "ashby-7972f80f-fb09-41b3-85e4-0335cabb595e",
+    "dedupeKey": "ashby:7972f80f-fb09-41b3-85e4-0335cabb595e",
     "company": "Perplexity",
     "companyDomain": "perplexity.ai",
     "role": "Member of Technical Staff (Secure Intelligence Institute)",
@@ -252,7 +252,7 @@
     "posted": "2026-06-27T00:55:00.619Z"
   },
   {
-    "slug": "greenhouse-8604954002",
+    "dedupeKey": "greenhouse:8604954002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Staff Research Engineer, Data Agents",
@@ -277,7 +277,7 @@
     "posted": "2026-06-27T00:17:38.000Z"
   },
   {
-    "slug": "greenhouse-8532728002",
+    "dedupeKey": "greenhouse:8532728002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Principal Research Scientist - AI Scaling & Optimization",
@@ -305,7 +305,7 @@
     "posted": "2026-06-27T00:17:28.000Z"
   },
   {
-    "slug": "greenhouse-8521190002",
+    "dedupeKey": "greenhouse:8521190002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Principal Research Scientist – Scaling",
@@ -333,7 +333,7 @@
     "posted": "2026-06-27T00:17:28.000Z"
   },
   {
-    "slug": "greenhouse-8557780002",
+    "dedupeKey": "greenhouse:8557780002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Staff AI Research TLM - AI Systems",
@@ -358,7 +358,7 @@
     "posted": "2026-06-27T00:17:28.000Z"
   },
   {
-    "slug": "greenhouse-8297797002",
+    "dedupeKey": "greenhouse:8297797002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Senior GenAI Research Engineer - Optimization and Kernels",
@@ -389,7 +389,7 @@
     "posted": "2026-06-27T00:17:27.000Z"
   },
   {
-    "slug": "greenhouse-7011263002",
+    "dedupeKey": "greenhouse:7011263002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "PhD GenAI Research Scientist Intern",
@@ -411,7 +411,7 @@
     "posted": "2026-06-27T00:17:27.000Z"
   },
   {
-    "slug": "greenhouse-4998882007",
+    "dedupeKey": "greenhouse:4998882007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Machine Learning Research Engineer",
@@ -431,7 +431,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5044436007",
+    "dedupeKey": "greenhouse:5044436007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Research Scientist",
@@ -455,7 +455,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5175794007",
+    "dedupeKey": "greenhouse:5175794007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Modeling and Simulation Engineer, Space",
@@ -478,7 +478,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5150954007",
+    "dedupeKey": "greenhouse:5150954007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Research Scientist",
@@ -501,7 +501,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5117910007",
+    "dedupeKey": "greenhouse:5117910007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Scientist",
@@ -523,7 +523,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5150953007",
+    "dedupeKey": "greenhouse:5150953007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Research Scientist",
@@ -550,7 +550,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5127039007",
+    "dedupeKey": "greenhouse:5127039007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Advanced Research Scientist ",
@@ -581,7 +581,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5150296007",
+    "dedupeKey": "greenhouse:5150296007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Research Scientist",
@@ -604,7 +604,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5150395007",
+    "dedupeKey": "greenhouse:5150395007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Research Scientist ",
@@ -630,7 +630,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5150951007",
+    "dedupeKey": "greenhouse:5150951007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Research Scientist",
@@ -655,7 +655,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5150299007",
+    "dedupeKey": "greenhouse:5150299007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Research Scientist",
@@ -680,7 +680,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5150952007",
+    "dedupeKey": "greenhouse:5150952007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Research Scientist",
@@ -708,7 +708,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5150279007",
+    "dedupeKey": "greenhouse:5150279007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Research Scientist",
@@ -731,7 +731,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5150393007",
+    "dedupeKey": "greenhouse:5150393007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Research Scientist",
@@ -755,7 +755,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5169881007",
+    "dedupeKey": "greenhouse:5169881007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Space Special Projects, Research Scientist ",
@@ -784,7 +784,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "workday-jr2020216",
+    "dedupeKey": "workday:JR2020216",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Deep Learning Research Engineer – Multimedia GPU team",
@@ -811,7 +811,7 @@
     "posted": "2026-06-27T00:00:00.000Z"
   },
   {
-    "slug": "greenhouse-6101134004",
+    "dedupeKey": "greenhouse:6101134004",
     "company": "Olema Oncology",
     "companyDomain": "olema.com",
     "role": "Director, Clinical Science ",
@@ -831,7 +831,7 @@
     "posted": "2026-06-26T23:24:58.000Z"
   },
   {
-    "slug": "ashby-d78083d9-a203-4ae4-b4b9-454d65df3702",
+    "dedupeKey": "ashby:d78083d9-a203-4ae4-b4b9-454d65df3702",
     "company": "Harvey",
     "companyDomain": "harvey.ai",
     "role": "Research Engineer, Post-Training",
@@ -848,7 +848,7 @@
     "posted": "2026-06-26T22:34:50.803Z"
   },
   {
-    "slug": "ashby-f13f785f-b5dc-4367-88da-49208588589a",
+    "dedupeKey": "ashby:f13f785f-b5dc-4367-88da-49208588589a",
     "company": "SandboxAQ",
     "companyDomain": "sandboxaq.com",
     "role": "Senior Research Scientist, Battery Materials Simulation",
@@ -887,7 +887,7 @@
     "posted": "2026-06-26T22:22:18.775Z"
   },
   {
-    "slug": "ashby-52925922-7cfc-4ee5-bcd2-a52850a7c067",
+    "dedupeKey": "ashby:52925922-7cfc-4ee5-bcd2-a52850a7c067",
     "company": "Snowflake",
     "companyDomain": "snowflake.com",
     "role": "Staff Research Scientist, Exotic AI",
@@ -912,7 +912,7 @@
     "posted": "2026-06-26T22:07:16.588Z"
   },
   {
-    "slug": "ashby-36e2df87-60e8-491a-a57d-f3e87b93a7e1",
+    "dedupeKey": "ashby:36e2df87-60e8-491a-a57d-f3e87b93a7e1",
     "company": "SandboxAQ",
     "companyDomain": "sandboxaq.com",
     "role": "Research Scientist, Battery Materials Simulation",
@@ -937,7 +937,7 @@
     "posted": "2026-06-26T21:50:38.788Z"
   },
   {
-    "slug": "ashby-f09286ef-c08d-49c4-8635-c1d952440865",
+    "dedupeKey": "ashby:f09286ef-c08d-49c4-8635-c1d952440865",
     "company": "Genmo",
     "companyDomain": "genmo.ai",
     "role": "Research Scientist (post-training)",
@@ -957,7 +957,7 @@
     "posted": "2026-06-26T21:46:46.630Z"
   },
   {
-    "slug": "ashby-0f8462cc-c351-41b0-a794-3558c63646e2",
+    "dedupeKey": "ashby:0f8462cc-c351-41b0-a794-3558c63646e2",
     "company": "Genmo",
     "companyDomain": "genmo.ai",
     "role": "Research Scientist (diffusion)",
@@ -978,7 +978,7 @@
     "posted": "2026-06-26T21:46:36.794Z"
   },
   {
-    "slug": "greenhouse-8027348",
+    "dedupeKey": "greenhouse:8027348",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Senior/Staff Machine Learning Engineer, Simulation Realism ",
@@ -1004,7 +1004,7 @@
     "posted": "2026-06-26T21:37:46.000Z"
   },
   {
-    "slug": "ashby-9ac67097-139b-4e3c-8c13-e9a6be26cf1b",
+    "dedupeKey": "ashby:9ac67097-139b-4e3c-8c13-e9a6be26cf1b",
     "company": "OpenAI",
     "companyDomain": "openai.com",
     "role": "Economist",
@@ -1026,7 +1026,7 @@
     "posted": "2026-06-26T19:39:46.571Z"
   },
   {
-    "slug": "ashby-18ffb449-dcc4-42b2-a547-fb021fc1177b",
+    "dedupeKey": "ashby:18ffb449-dcc4-42b2-a547-fb021fc1177b",
     "company": "Odyssey",
     "companyDomain": "odyssey.world",
     "role": "Member of Technical Staff, Research",
@@ -1048,7 +1048,7 @@
     "posted": "2026-06-26T18:57:19.813Z"
   },
   {
-    "slug": "ashby-9d72171e-2630-4347-83a1-263178644282",
+    "dedupeKey": "ashby:9d72171e-2630-4347-83a1-263178644282",
     "company": "OpenAI",
     "companyDomain": "openai.com",
     "role": "Agent Post-Training, Frontier Evals and Environments Research",
@@ -1071,7 +1071,7 @@
     "posted": "2026-06-26T17:42:23.335Z"
   },
   {
-    "slug": "greenhouse-6102254004",
+    "dedupeKey": "greenhouse:6102254004",
     "company": "Obsidian Therapeutics",
     "companyDomain": "obsidiantx.com",
     "role": "Associate Director Computational Biology & Bioinformatics",
@@ -1100,7 +1100,7 @@
     "posted": "2026-06-26T16:03:27.000Z"
   },
   {
-    "slug": "ashby-c13f8b1c-936b-4b5e-8b42-73cb0fbb43d1",
+    "dedupeKey": "ashby:c13f8b1c-936b-4b5e-8b42-73cb0fbb43d1",
     "company": "SandboxAQ",
     "companyDomain": "sandboxaq.com",
     "role": "Chief Scientist, Magnets",
@@ -1141,7 +1141,7 @@
     "posted": "2026-06-26T15:17:30.258Z"
   },
   {
-    "slug": "greenhouse-6100592004",
+    "dedupeKey": "greenhouse:6100592004",
     "company": "Prime Medicine",
     "companyDomain": "primemedicine.com",
     "role": "Senior Associate Scientist II",
@@ -1171,7 +1171,7 @@
     "posted": "2026-06-26T13:31:26.000Z"
   },
   {
-    "slug": "lever-5fe3efce-2858-41f0-a22c-be876f7ea433",
+    "dedupeKey": "lever:5fe3efce-2858-41f0-a22c-be876f7ea433",
     "company": "Prolific Machines",
     "companyDomain": "prolific-machines.com",
     "role": "Research Associate II, Analytical Chemistry (Contract)",
@@ -1194,7 +1194,7 @@
     "posted": "2026-06-26T11:27:25.686Z"
   },
   {
-    "slug": "greenhouse-5174726007",
+    "dedupeKey": "greenhouse:5174726007",
     "company": "Xaira Therapeutics",
     "companyDomain": "xaira.com",
     "role": "Director, Protein Sciences",
@@ -1226,7 +1226,7 @@
     "posted": "2026-06-26T01:05:15.000Z"
   },
   {
-    "slug": "lever-d495bb77-df1f-44ef-9b63-e6f54cc95e41",
+    "dedupeKey": "lever:d495bb77-df1f-44ef-9b63-e6f54cc95e41",
     "company": "Mistral AI",
     "companyDomain": "mistral.ai",
     "role": "Applied Scientist / Research Engineer",
@@ -1254,7 +1254,7 @@
     "posted": "2026-06-26T00:36:21.418Z"
   },
   {
-    "slug": "lever-228e68fa-1deb-4e65-bb48-bfae99628acd",
+    "dedupeKey": "lever:228e68fa-1deb-4e65-bb48-bfae99628acd",
     "company": "Mistral AI",
     "companyDomain": "mistral.ai",
     "role": "Senior/Staff Applied Scientist/Research Engineer",
@@ -1280,7 +1280,7 @@
     "posted": "2026-06-26T00:35:40.241Z"
   },
   {
-    "slug": "workday-jr335412",
+    "dedupeKey": "workday:JR335412",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Lead Researcher, Product Research & Insights",
@@ -1312,7 +1312,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-586934",
+    "dedupeKey": "workday:586934",
     "company": "Philips Health Technology Innovation Paris",
     "companyDomain": "careers.philips.com",
     "role": "CT Physics & Algorithms Engineer",
@@ -1340,7 +1340,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-586935",
+    "dedupeKey": "workday:586935",
     "company": "Philips Health Technology Innovation Paris",
     "companyDomain": "careers.philips.com",
     "role": "CT Physics & Algorithms Engineer",
@@ -1364,7 +1364,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "greenhouse-7891161",
+    "dedupeKey": "greenhouse:7891161",
     "company": "MongoDB",
     "companyDomain": "mongodb.com",
     "role": "Senior Research Scientist",
@@ -1386,7 +1386,7 @@
     "posted": "2026-06-25T22:20:36.000Z"
   },
   {
-    "slug": "greenhouse-7858725",
+    "dedupeKey": "greenhouse:7858725",
     "company": "10X Genomics",
     "companyDomain": "10xgenomics.com",
     "role": "P-5010 Scientist II, Reagents Sustaining and Applications",
@@ -1410,7 +1410,7 @@
     "posted": "2026-06-25T21:47:35.000Z"
   },
   {
-    "slug": "greenhouse-7852175",
+    "dedupeKey": "greenhouse:7852175",
     "company": "10X Genomics",
     "companyDomain": "10xgenomics.com",
     "role": "Clinical Laboratory Scientist, (General Supervisor)",
@@ -1430,7 +1430,7 @@
     "posted": "2026-06-25T21:47:22.000Z"
   },
   {
-    "slug": "greenhouse-8011620",
+    "dedupeKey": "greenhouse:8011620",
     "company": "10X Genomics",
     "companyDomain": "10xgenomics.com",
     "role": "Scientist 2-Spatial Biology and Biophysics",
@@ -1452,7 +1452,7 @@
     "posted": "2026-06-25T21:47:22.000Z"
   },
   {
-    "slug": "greenhouse-7565668",
+    "dedupeKey": "greenhouse:7565668",
     "company": "10X Genomics",
     "companyDomain": "10xgenomics.com",
     "role": "Scientist II, Clinical Bioinformatics",
@@ -1476,7 +1476,7 @@
     "posted": "2026-06-25T21:47:22.000Z"
   },
   {
-    "slug": "greenhouse-8021884",
+    "dedupeKey": "greenhouse:8021884",
     "company": "10X Genomics",
     "companyDomain": "10xgenomics.com",
     "role": "Scientist- Process Chemistry",
@@ -1502,7 +1502,7 @@
     "posted": "2026-06-25T21:47:22.000Z"
   },
   {
-    "slug": "greenhouse-8014938",
+    "dedupeKey": "greenhouse:8014938",
     "company": "10X Genomics",
     "companyDomain": "10xgenomics.com",
     "role": "Senior Research Associate- Diagnostic Assay Development",
@@ -1527,7 +1527,7 @@
     "posted": "2026-06-25T21:47:22.000Z"
   },
   {
-    "slug": "greenhouse-5174494007",
+    "dedupeKey": "greenhouse:5174494007",
     "company": "Xaira Therapeutics",
     "companyDomain": "xaira.com",
     "role": "Associate Director, Analytical Development (Biologics)",
@@ -1551,7 +1551,7 @@
     "posted": "2026-06-25T20:28:18.000Z"
   },
   {
-    "slug": "ashby-9296e457-11cb-4ad3-81b0-61c6f96ce6c1",
+    "dedupeKey": "ashby:9296e457-11cb-4ad3-81b0-61c6f96ce6c1",
     "company": "Edison Scientific",
     "companyDomain": "edisonscientific.com",
     "role": "Senior/Principal AI Research Scientist",
@@ -1573,7 +1573,7 @@
     "posted": "2026-06-25T20:26:28.776Z"
   },
   {
-    "slug": "greenhouse-6100612004",
+    "dedupeKey": "greenhouse:6100612004",
     "company": "Awardco",
     "companyDomain": "award.co",
     "role": "Center Of Excellence Research and Insights Manager",
@@ -1592,7 +1592,7 @@
     "posted": "2026-06-25T19:35:58.000Z"
   },
   {
-    "slug": "ashby-5fac39a3-a44d-470b-94ed-15b2239d410f",
+    "dedupeKey": "ashby:5fac39a3-a44d-470b-94ed-15b2239d410f",
     "company": "Parallel Web Systems",
     "companyDomain": "parallel.ai",
     "role": "Research Scientist ",
@@ -1609,7 +1609,7 @@
     "posted": "2026-06-25T18:44:57.969Z"
   },
   {
-    "slug": "ashby-a2da136d-10bb-4070-b742-f3a669e8f83a",
+    "dedupeKey": "ashby:a2da136d-10bb-4070-b742-f3a669e8f83a",
     "company": "Iambic Therapeutics, Inc",
     "companyDomain": "iambic.ai",
     "role": "Sr Associate Scientist I or II, GPCR Biology",
@@ -1628,7 +1628,7 @@
     "posted": "2026-06-25T17:55:21.852Z"
   },
   {
-    "slug": "greenhouse-8003587",
+    "dedupeKey": "greenhouse:8003587",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Senior Research Scientist, Foundation Model for Simulation",
@@ -1660,7 +1660,7 @@
     "posted": "2026-06-25T17:29:23.000Z"
   },
   {
-    "slug": "greenhouse-5127570007",
+    "dedupeKey": "greenhouse:5127570007",
     "company": "Manifold Bio",
     "companyDomain": "manifold.bio",
     "role": "Computational Scientist, Assay Development",
@@ -1685,7 +1685,7 @@
     "posted": "2026-06-25T17:24:13.000Z"
   },
   {
-    "slug": "greenhouse-6101732004",
+    "dedupeKey": "greenhouse:6101732004",
     "company": "PlayStation",
     "companyDomain": "playstation.com",
     "role": "Senior Software Engineer",
@@ -1726,7 +1726,7 @@
     "posted": "2026-06-25T15:56:26.000Z"
   },
   {
-    "slug": "greenhouse-4288399009",
+    "dedupeKey": "greenhouse:4288399009",
     "company": "Lila Sciences",
     "companyDomain": "lila.ai",
     "role": "Co-op, Materials Science, Electrosynthesis",
@@ -1757,7 +1757,7 @@
     "posted": "2026-06-25T15:18:15.000Z"
   },
   {
-    "slug": "ashby-1bdbd95c-22bd-4217-8207-c5751b3c8fcc",
+    "dedupeKey": "ashby:1bdbd95c-22bd-4217-8207-c5751b3c8fcc",
     "company": "First Street Foundation",
     "companyDomain": "firststreet.org",
     "role": "Risk & Resilience Engineer",
@@ -1778,7 +1778,7 @@
     "posted": "2026-06-25T15:05:59.584Z"
   },
   {
-    "slug": "greenhouse-8430552002",
+    "dedupeKey": "greenhouse:8430552002",
     "company": "Lyft",
     "companyDomain": "lyft.com",
     "role": "Senior Machine Learning Engineer, Recommendations",
@@ -1805,7 +1805,7 @@
     "posted": "2026-06-25T13:54:18.000Z"
   },
   {
-    "slug": "greenhouse-8603653002",
+    "dedupeKey": "greenhouse:8603653002",
     "company": "Lyft",
     "companyDomain": "lyft.com",
     "role": "Senior Machine Learning Engineer, Recommendations",
@@ -1833,7 +1833,7 @@
     "posted": "2026-06-25T13:53:59.000Z"
   },
   {
-    "slug": "recruitee-2654903",
+    "dedupeKey": "recruitee:2654903",
     "company": "CESI",
     "companyDomain": "cesi.fr",
     "role": "Chercheur Doctorant H/F Multi-Objective Optimization of Maintenance Strategies in the Aeronautical Industry within a Big Data Environment Driven by Heterogeneous and Uncertain Data",
@@ -1864,7 +1864,7 @@
     "posted": "2026-06-25T08:21:00.000Z"
   },
   {
-    "slug": "ashby-2cdc8cdb-cbe5-42e5-a030-ef750b898a73",
+    "dedupeKey": "ashby:2cdc8cdb-cbe5-42e5-a030-ef750b898a73",
     "company": "Owkin",
     "companyDomain": "owkin.com",
     "role": "Senior Scientist – AI for Life Sciences ",
@@ -1885,7 +1885,7 @@
     "posted": "2026-06-25T07:13:19.045Z"
   },
   {
-    "slug": "ashby-171ebca6-de53-4d6e-a312-30332f353957",
+    "dedupeKey": "ashby:171ebca6-de53-4d6e-a312-30332f353957",
     "company": "OpenAI",
     "companyDomain": "openai.com",
     "role": "Research Engineer/Research Scientist - Personal AGI, North Stars",
@@ -1906,7 +1906,7 @@
     "posted": "2026-06-25T04:24:09.112Z"
   },
   {
-    "slug": "greenhouse-7944201",
+    "dedupeKey": "greenhouse:7944201",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Senior Applied ML Scientist, Driving Understanding & Evaluation",
@@ -1931,7 +1931,7 @@
     "posted": "2026-06-25T01:56:27.000Z"
   },
   {
-    "slug": "workday-r18458",
+    "dedupeKey": "workday:R18458",
     "company": "Zoom",
     "companyDomain": "zoom.com",
     "role": "Research Scientist - AI Incubation",
@@ -1960,7 +1960,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-r170044",
+    "dedupeKey": "workday:R170044",
     "company": "Frame.io",
     "companyDomain": "frame.io",
     "role": "Staff Applied Scientist",
@@ -1991,7 +1991,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2012860",
+    "dedupeKey": "workday:JR2012860",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Scientific Machine Learning Engineer – Earth-2",
@@ -2019,7 +2019,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "ashby-ee6439af-8e2e-4564-896f-7d85c181bb4a",
+    "dedupeKey": "ashby:ee6439af-8e2e-4564-896f-7d85c181bb4a",
     "company": "Iambic Therapeutics, Inc",
     "companyDomain": "iambic.ai",
     "role": " Associate Scientist II/Senior Associate Scientist Biology",
@@ -2042,7 +2042,7 @@
     "posted": "2026-06-24T22:22:58.546Z"
   },
   {
-    "slug": "greenhouse-5278065008",
+    "dedupeKey": "greenhouse:5278065008",
     "company": "Anthropic",
     "companyDomain": "anthropic.com",
     "role": "Research Engineer, Rule of Law",
@@ -2062,7 +2062,7 @@
     "posted": "2026-06-24T21:04:19.000Z"
   },
   {
-    "slug": "greenhouse-5173315007",
+    "dedupeKey": "greenhouse:5173315007",
     "company": "Xaira Therapeutics",
     "companyDomain": "xaira.com",
     "role": "Senior Scientist, Computational Biology",
@@ -2093,7 +2093,7 @@
     "posted": "2026-06-24T21:01:04.000Z"
   },
   {
-    "slug": "ashby-e22479a1-1707-47c3-9dad-c07db50de815",
+    "dedupeKey": "ashby:e22479a1-1707-47c3-9dad-c07db50de815",
     "company": "Helion",
     "companyDomain": "helionenergy.com",
     "role": "Experimental Scientist",
@@ -2116,7 +2116,7 @@
     "posted": "2026-06-24T18:45:22.612Z"
   },
   {
-    "slug": "ashby-b9012eef-f812-4855-b9b6-0a1c856924cb",
+    "dedupeKey": "ashby:b9012eef-f812-4855-b9b6-0a1c856924cb",
     "company": "Helion",
     "companyDomain": "helionenergy.com",
     "role": "Computational Plasma Scientist - Kinetic / PIC Modeling",
@@ -2146,7 +2146,7 @@
     "posted": "2026-06-24T18:42:25.820Z"
   },
   {
-    "slug": "lever-00694777-4083-426f-8382-3d0073c34787",
+    "dedupeKey": "lever:00694777-4083-426f-8382-3d0073c34787",
     "company": "Zoox",
     "companyDomain": "zoox.com",
     "role": "Machine Learning Engineer - Simulation Framework",
@@ -2173,7 +2173,7 @@
     "posted": "2026-06-24T16:33:45.446Z"
   },
   {
-    "slug": "ashby-052036dc-ec0e-4af9-8812-08b2bae1e876",
+    "dedupeKey": "ashby:052036dc-ec0e-4af9-8812-08b2bae1e876",
     "company": "Edison Scientific",
     "companyDomain": "edisonscientific.com",
     "role": "DMPK Consultant ",
@@ -2196,7 +2196,7 @@
     "posted": "2026-06-24T16:00:14.753Z"
   },
   {
-    "slug": "greenhouse-4690883006",
+    "dedupeKey": "greenhouse:4690883006",
     "company": "Gong",
     "companyDomain": "gong.io",
     "role": "Senior ML Applied Research Scientist",
@@ -2217,7 +2217,7 @@
     "posted": "2026-06-24T15:16:14.000Z"
   },
   {
-    "slug": "greenhouse-5996132004",
+    "dedupeKey": "greenhouse:5996132004",
     "company": "Isomorphic Labs",
     "companyDomain": "isomorphiclabs.com",
     "role": "Head of Medicinal Chemistry, Drug Design, London",
@@ -2248,7 +2248,7 @@
     "posted": "2026-06-24T11:52:01.000Z"
   },
   {
-    "slug": "greenhouse-5578430004",
+    "dedupeKey": "greenhouse:5578430004",
     "company": "Isomorphic Labs",
     "companyDomain": "isomorphiclabs.com",
     "role": "ML Research Engineer, London",
@@ -2277,7 +2277,7 @@
     "posted": "2026-06-24T11:52:01.000Z"
   },
   {
-    "slug": "greenhouse-5704870004",
+    "dedupeKey": "greenhouse:5704870004",
     "company": "Isomorphic Labs",
     "companyDomain": "isomorphiclabs.com",
     "role": "Research Scientist (Applied LLMs), London",
@@ -2310,7 +2310,7 @@
     "posted": "2026-06-24T11:52:01.000Z"
   },
   {
-    "slug": "greenhouse-5460704004",
+    "dedupeKey": "greenhouse:5460704004",
     "company": "Isomorphic Labs",
     "companyDomain": "isomorphiclabs.com",
     "role": "Research Scientist (Machine Learning), Lausanne",
@@ -2342,7 +2342,7 @@
     "posted": "2026-06-24T11:52:01.000Z"
   },
   {
-    "slug": "greenhouse-5224363004",
+    "dedupeKey": "greenhouse:5224363004",
     "company": "Isomorphic Labs",
     "companyDomain": "isomorphiclabs.com",
     "role": "Research Scientist (Machine Learning), London",
@@ -2373,7 +2373,7 @@
     "posted": "2026-06-24T11:52:01.000Z"
   },
   {
-    "slug": "workday-r0045945",
+    "dedupeKey": "workday:R0045945",
     "company": "Snap Inc.",
     "companyDomain": "snapchat.com",
     "role": "Principal Machine Learning Engineer, Content ML, Level 7",
@@ -2400,7 +2400,7 @@
     "posted": "2026-06-24T00:00:00.000Z"
   },
   {
-    "slug": "jazzhr-qxsmewrwsf",
+    "dedupeKey": "jazzhr:QXsMEwrWsf",
     "company": "BiomeSense",
     "companyDomain": "biomesense.com",
     "role": "Director of Research",
@@ -2424,7 +2424,7 @@
     "posted": "2026-06-24T00:00:00.000Z"
   },
   {
-    "slug": "workday-r26578",
+    "dedupeKey": "workday:R26578",
     "company": "CrowdStrike",
     "companyDomain": "crowdstrike.com",
     "role": "Sr. AI Scientist - AI Detection and Response (AIDR) (Hybrid)",
@@ -2454,7 +2454,7 @@
     "posted": "2026-06-24T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2019667",
+    "dedupeKey": "workday:JR2019667",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "PhD Research Intern, System Software and I/O Architecture - Fall 2026",
@@ -2482,7 +2482,7 @@
     "posted": "2026-06-24T00:00:00.000Z"
   },
   {
-    "slug": "workday-r164619",
+    "dedupeKey": "workday:R164619",
     "company": "Frame.io",
     "companyDomain": "frame.io",
     "role": "Senior Applied Scientist",
@@ -2510,7 +2510,7 @@
     "posted": "2026-06-24T00:00:00.000Z"
   },
   {
-    "slug": "workday-581557",
+    "dedupeKey": "workday:581557",
     "company": "Philips Health Technology Innovation Paris",
     "companyDomain": "careers.philips.com",
     "role": "Advanced Product Development Algorithms Scientist – Medical Ultrasound (Cambridge, MA)",
@@ -2542,7 +2542,7 @@
     "posted": "2026-06-24T00:00:00.000Z"
   },
   {
-    "slug": "ashby-49d026b6-f182-48b4-86ed-0f2ae62531c4",
+    "dedupeKey": "ashby:49d026b6-f182-48b4-86ed-0f2ae62531c4",
     "company": "Still Bright",
     "companyDomain": "stillbright.co",
     "role": "Scientist III",
@@ -2574,7 +2574,7 @@
     "posted": "2026-06-23T23:28:41.601Z"
   },
   {
-    "slug": "rippling-a7478b49-051d-45cf-88da-89606bd3e1a1",
+    "dedupeKey": "rippling:a7478b49-051d-45cf-88da-89606bd3e1a1",
     "company": "Cartography Biosciences",
     "companyDomain": "cartography.bio",
     "role": "Research Associate, Pharmacology",
@@ -2599,7 +2599,7 @@
     "posted": "2026-06-23T21:21:39.134Z"
   },
   {
-    "slug": "greenhouse-5248631008",
+    "dedupeKey": "greenhouse:5248631008",
     "company": "Block",
     "companyDomain": "block.xyz",
     "role": "Staff Applied Machine Learning Engineer - Intelligent Data, Signals & Systems",
@@ -2640,7 +2640,7 @@
     "posted": "2026-06-23T19:57:57.000Z"
   },
   {
-    "slug": "greenhouse-4969342008",
+    "dedupeKey": "greenhouse:4969342008",
     "company": "Block",
     "companyDomain": "block.xyz",
     "role": "Staff Applied Machine Learning Engineer - Fraud & Abuse",
@@ -2679,7 +2679,7 @@
     "posted": "2026-06-23T19:57:14.000Z"
   },
   {
-    "slug": "ashby-60ebda5d-2d1e-4373-bc31-419ecffa2209",
+    "dedupeKey": "ashby:60ebda5d-2d1e-4373-bc31-419ecffa2209",
     "company": "Still Bright",
     "companyDomain": "stillbright.co",
     "role": "Director of Research & Development",
@@ -2708,7 +2708,7 @@
     "posted": "2026-06-23T17:53:14.008Z"
   },
   {
-    "slug": "rippling-78d4f3c2-746a-4c20-a781-8f6ad61a1a73",
+    "dedupeKey": "rippling:78d4f3c2-746a-4c20-a781-8f6ad61a1a73",
     "company": "Terray Therapeutics",
     "companyDomain": "terraytx.com",
     "role": "Research Associate / Senior Research Associate, Cell Biology",
@@ -2734,7 +2734,7 @@
     "posted": "2026-06-23T17:12:46.781Z"
   },
   {
-    "slug": "ashby-eb29f021-c7a2-4706-b745-54019af10551",
+    "dedupeKey": "ashby:eb29f021-c7a2-4706-b745-54019af10551",
     "company": "Still Bright",
     "companyDomain": "stillbright.co",
     "role": "Senior Scientist",
@@ -2761,7 +2761,7 @@
     "posted": "2026-06-23T17:12:45.632Z"
   },
   {
-    "slug": "greenhouse-5170884007",
+    "dedupeKey": "greenhouse:5170884007",
     "company": "Manifold Bio",
     "companyDomain": "manifold.bio",
     "role": "Associate Scientist/Senior Associate Scientist, In Vivo Pharmacology– Study Coordinator",
@@ -2782,7 +2782,7 @@
     "posted": "2026-06-23T14:25:14.000Z"
   },
   {
-    "slug": "greenhouse-8011576",
+    "dedupeKey": "greenhouse:8011576",
     "company": "Twilio",
     "companyDomain": "twilio.com",
     "role": "Tech Lead, Applied Research - Emerging Tech",
@@ -2810,7 +2810,7 @@
     "posted": "2026-06-23T13:16:07.000Z"
   },
   {
-    "slug": "lever-d9f3262a-3df1-471b-be81-2b3eb0e3491b",
+    "dedupeKey": "lever:d9f3262a-3df1-471b-be81-2b3eb0e3491b",
     "company": "Safran Aircraft Engines",
     "companyDomain": "safran-group.com",
     "role": "Ingénieur IA confirmé - Computer Vision pour Robotique (H/F)",
@@ -2841,7 +2841,7 @@
     "posted": "2026-06-23T05:10:21.094Z"
   },
   {
-    "slug": "smartrecruiters-744000133493298",
+    "dedupeKey": "smartrecruiters:744000133493298",
     "company": "Intuitive",
     "companyDomain": "intuitive.com",
     "role": "Director of AI - Applied Research",
@@ -2866,7 +2866,7 @@
     "posted": "2026-06-23T01:30:41.028Z"
   },
   {
-    "slug": "workday-r168308",
+    "dedupeKey": "workday:R168308",
     "company": "Frame.io",
     "companyDomain": "frame.io",
     "role": "Applied Scientist",
@@ -2893,7 +2893,7 @@
     "posted": "2026-06-23T00:00:00.000Z"
   },
   {
-    "slug": "workday-r0045561",
+    "dedupeKey": "workday:R0045561",
     "company": "Snap Inc.",
     "companyDomain": "snapchat.com",
     "role": "Staff Machine Learning Engineer, Search Ranking",
@@ -2938,7 +2938,7 @@
     "posted": "2026-06-23T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2017491",
+    "dedupeKey": "workday:JR2017491",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior AI Researcher - World Foundation Models",
@@ -2982,7 +2982,7 @@
     "posted": "2026-06-23T00:00:00.000Z"
   },
   {
-    "slug": "workday-r0045234",
+    "dedupeKey": "workday:R0045234",
     "company": "Snap Inc.",
     "companyDomain": "snapchat.com",
     "role": "Working Student - Machine Learning",
@@ -3007,7 +3007,7 @@
     "posted": "2026-06-23T00:00:00.000Z"
   },
   {
-    "slug": "greenhouse-8017422",
+    "dedupeKey": "greenhouse:8017422",
     "company": "Qualtrics",
     "companyDomain": "qualtrics.com",
     "role": "Applied Scientist II",
@@ -3030,7 +3030,7 @@
     "posted": "2026-06-22T23:55:49.000Z"
   },
   {
-    "slug": "greenhouse-8017515",
+    "dedupeKey": "greenhouse:8017515",
     "company": "Qualtrics",
     "companyDomain": "qualtrics.com",
     "role": "Staff Applied Scientist ",
@@ -3054,7 +3054,7 @@
     "posted": "2026-06-22T23:55:02.000Z"
   },
   {
-    "slug": "smartrecruiters-744000133458290",
+    "dedupeKey": "smartrecruiters:744000133458290",
     "company": "Intuitive",
     "companyDomain": "intuitive.com",
     "role": "Computer Vision Engineering Intern - Fall 2026",
@@ -3079,7 +3079,7 @@
     "posted": "2026-06-22T21:41:38.327Z"
   },
   {
-    "slug": "rippling-d2a6df71-9bbf-4c5e-be79-7a3e09ccbdfe",
+    "dedupeKey": "rippling:d2a6df71-9bbf-4c5e-be79-7a3e09ccbdfe",
     "company": "Plantible Foods",
     "companyDomain": "plantiblefoods.com",
     "role": "Research Associate - Upstream Processing",
@@ -3114,7 +3114,7 @@
     "posted": "2026-06-22T17:42:52.517Z"
   },
   {
-    "slug": "ashby-96951117-efef-4f27-bbc4-671559d4af30",
+    "dedupeKey": "ashby:96951117-efef-4f27-bbc4-671559d4af30",
     "company": "Distyl AI",
     "companyDomain": "distyl.ai",
     "role": "Research Engineers, Post-Training",
@@ -3132,7 +3132,7 @@
     "posted": "2026-06-22T17:39:30.356Z"
   },
   {
-    "slug": "ashby-fe44469c-0f27-408c-878c-5e296b7db50e",
+    "dedupeKey": "ashby:fe44469c-0f27-408c-878c-5e296b7db50e",
     "company": "Distyl AI",
     "companyDomain": "distyl.ai",
     "role": "Research Engineers, Data",
@@ -3151,7 +3151,7 @@
     "posted": "2026-06-22T17:39:26.242Z"
   },
   {
-    "slug": "greenhouse-5169224007",
+    "dedupeKey": "greenhouse:5169224007",
     "company": "Xaira Therapeutics",
     "companyDomain": "xaira.com",
     "role": "Associate Scientist, Immunogenicity Assessment",
@@ -3172,7 +3172,7 @@
     "posted": "2026-06-22T17:32:12.000Z"
   },
   {
-    "slug": "greenhouse-5274665008",
+    "dedupeKey": "greenhouse:5274665008",
     "company": "The Nuclear Company",
     "companyDomain": "thenuclearcompany.com",
     "role": "Research Scientist",
@@ -3195,7 +3195,7 @@
     "posted": "2026-06-22T17:20:52.000Z"
   },
   {
-    "slug": "greenhouse-7676313003",
+    "dedupeKey": "greenhouse:7676313003",
     "company": "Neuralink",
     "companyDomain": "neuralink.com",
     "role": "Clinical Scientist",
@@ -3212,7 +3212,7 @@
     "posted": "2026-06-22T16:34:11.000Z"
   },
   {
-    "slug": "greenhouse-7571489003",
+    "dedupeKey": "greenhouse:7571489003",
     "company": "Neuralink",
     "companyDomain": "neuralink.com",
     "role": "Neuroengineer, Next Gen",
@@ -3233,7 +3233,7 @@
     "posted": "2026-06-22T16:34:11.000Z"
   },
   {
-    "slug": "greenhouse-5168929007",
+    "dedupeKey": "greenhouse:5168929007",
     "company": "Together AI",
     "companyDomain": "together.ai",
     "role": "Research Intern RL & Post-Training Systems, Turbo (Fall 2026)",
@@ -3254,7 +3254,7 @@
     "posted": "2026-06-22T16:30:51.000Z"
   },
   {
-    "slug": "greenhouse-6097177004",
+    "dedupeKey": "greenhouse:6097177004",
     "company": "IonQ",
     "companyDomain": "ionq.com",
     "role": "Staff Scientist PIC Laser",
@@ -3286,7 +3286,7 @@
     "posted": "2026-06-22T14:56:07.000Z"
   },
   {
-    "slug": "greenhouse-7961706",
+    "dedupeKey": "greenhouse:7961706",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Senior Machine Learning Engineer / London (UK-LON-40BR) / Simulation (7XW)   ",
@@ -3312,7 +3312,7 @@
     "posted": "2026-06-22T14:50:47.000Z"
   },
   {
-    "slug": "greenhouse-7985945",
+    "dedupeKey": "greenhouse:7985945",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Staff Machine Learning Engineer",
@@ -3338,7 +3338,7 @@
     "posted": "2026-06-22T14:42:44.000Z"
   },
   {
-    "slug": "greenhouse-4273680009",
+    "dedupeKey": "greenhouse:4273680009",
     "company": "Lila Sciences",
     "companyDomain": "lila.ai",
     "role": "Director/Senior Director, Molecular Discovery",
@@ -3360,7 +3360,7 @@
     "posted": "2026-06-22T14:02:35.000Z"
   },
   {
-    "slug": "ashby-8dc3f33a-b930-4c54-b4c4-3e6bd2ff28d3",
+    "dedupeKey": "ashby:8dc3f33a-b930-4c54-b4c4-3e6bd2ff28d3",
     "company": "PostHog",
     "companyDomain": "posthog.com",
     "role": "AI Research Engineer",
@@ -3379,7 +3379,7 @@
     "posted": "2026-06-22T10:38:18.334Z"
   },
   {
-    "slug": "workday-r-100088",
+    "dedupeKey": "workday:R-100088",
     "company": "CRISPR Therapeutics",
     "companyDomain": "crisprtx.com",
     "role": "Research Associate II, CRISPR-X - LNP",
@@ -3420,7 +3420,7 @@
     "posted": "2026-06-22T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2007295",
+    "dedupeKey": "workday:JR2007295",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior AI Networking Exploration Architect ",
@@ -3445,7 +3445,7 @@
     "posted": "2026-06-22T00:00:00.000Z"
   },
   {
-    "slug": "workday-26wd97951",
+    "dedupeKey": "workday:26WD97951",
     "company": "Autodesk",
     "companyDomain": "autodesk.co.uk",
     "role": "Research Engineer",
@@ -3477,7 +3477,7 @@
     "posted": "2026-06-22T00:00:00.000Z"
   },
   {
-    "slug": "ashby-a0a953d6-3769-4254-8381-d98c647c078f",
+    "dedupeKey": "ashby:a0a953d6-3769-4254-8381-d98c647c078f",
     "company": "Kalshi",
     "companyDomain": "kalshi.com",
     "role": "Quant Researcher",
@@ -3497,7 +3497,7 @@
     "posted": "2026-06-19T19:49:47.911Z"
   },
   {
-    "slug": "greenhouse-5271380008",
+    "dedupeKey": "greenhouse:5271380008",
     "company": "Anthropic",
     "companyDomain": "anthropic.com",
     "role": "Research Engineer, Domain Scaling",
@@ -3516,7 +3516,7 @@
     "posted": "2026-06-19T18:36:38.000Z"
   },
   {
-    "slug": "recruitee-2648262",
+    "dedupeKey": "recruitee:2648262",
     "company": "CESI",
     "companyDomain": "cesi.fr",
     "role": "PhD position H/F : Pipeline leak detection using electromagnetic scanning powered by distributed AI (LEAK-SCAN)",
@@ -3542,7 +3542,7 @@
     "posted": "2026-06-19T09:30:27.000Z"
   },
   {
-    "slug": "ashby-0e9114bd-4603-4bdf-a86f-a7a4f390fae8",
+    "dedupeKey": "ashby:0e9114bd-4603-4bdf-a86f-a7a4f390fae8",
     "company": "Notion",
     "companyDomain": "notion.so",
     "role": "User Researcher, AI Evaluations",
@@ -3570,7 +3570,7 @@
     "posted": "2026-06-18T23:15:14.006Z"
   },
   {
-    "slug": "greenhouse-4690574006",
+    "dedupeKey": "greenhouse:4690574006",
     "company": "NewsBreak",
     "companyDomain": "newsbreak.com",
     "role": "Local Intent Data Mining Specialist",
@@ -3594,7 +3594,7 @@
     "posted": "2026-06-18T22:33:13.000Z"
   },
   {
-    "slug": "greenhouse-4690590006",
+    "dedupeKey": "greenhouse:4690590006",
     "company": "NewsBreak",
     "companyDomain": "newsbreak.com",
     "role": "Matching Algorithm Engineer",
@@ -3617,7 +3617,7 @@
     "posted": "2026-06-18T22:32:23.000Z"
   },
   {
-    "slug": "ashby-b7966a09-30ed-4bbf-a648-dc71a93fcae2",
+    "dedupeKey": "ashby:b7966a09-30ed-4bbf-a648-dc71a93fcae2",
     "company": "Virta Health",
     "companyDomain": "virtahealth.com",
     "role": "Head of Research and Scientific Communication",
@@ -3640,7 +3640,7 @@
     "posted": "2026-06-18T21:38:48.435Z"
   },
   {
-    "slug": "greenhouse-4707690005",
+    "dedupeKey": "greenhouse:4707690005",
     "company": "KoBold Metals",
     "companyDomain": "koboldmetals.com",
     "role": "Applied Scientist",
@@ -3671,7 +3671,7 @@
     "posted": "2026-06-18T21:29:17.000Z"
   },
   {
-    "slug": "greenhouse-6093434004",
+    "dedupeKey": "greenhouse:6093434004",
     "company": "Altos Labs",
     "companyDomain": "altoslabs.com",
     "role": "Scientist / Senior Scientist, Metabolomics Group Lead",
@@ -3697,7 +3697,7 @@
     "posted": "2026-06-18T20:39:37.000Z"
   },
   {
-    "slug": "greenhouse-5167740007",
+    "dedupeKey": "greenhouse:5167740007",
     "company": "Xaira Therapeutics",
     "companyDomain": "xaira.com",
     "role": "Director of Bioanalytical Sciences",
@@ -3721,7 +3721,7 @@
     "posted": "2026-06-18T19:53:02.000Z"
   },
   {
-    "slug": "smartrecruiters-744000132936109",
+    "dedupeKey": "smartrecruiters:744000132936109",
     "company": "Intuitive",
     "companyDomain": "intuitive.com",
     "role": "Translational Research Scientist",
@@ -3753,7 +3753,7 @@
     "posted": "2026-06-18T19:41:02.392Z"
   },
   {
-    "slug": "greenhouse-7604302",
+    "dedupeKey": "greenhouse:7604302",
     "company": "MongoDB",
     "companyDomain": "mongodb.com",
     "role": "Senior Research Scientist",
@@ -3781,7 +3781,7 @@
     "posted": "2026-06-18T19:34:16.000Z"
   },
   {
-    "slug": "greenhouse-7956670",
+    "dedupeKey": "greenhouse:7956670",
     "company": "MongoDB",
     "companyDomain": "mongodb.com",
     "role": "Staff Research Scientist",
@@ -3804,7 +3804,7 @@
     "posted": "2026-06-18T19:34:16.000Z"
   },
   {
-    "slug": "greenhouse-7775878",
+    "dedupeKey": "greenhouse:7775878",
     "company": "Take-Two Interactive",
     "companyDomain": "take2games.com",
     "role": "Director, Technology Research",
@@ -3823,7 +3823,7 @@
     "posted": "2026-06-18T15:58:48.000Z"
   },
   {
-    "slug": "lever-a6fdbd2b-3fed-4448-bce1-23a931ffddec",
+    "dedupeKey": "lever:a6fdbd2b-3fed-4448-bce1-23a931ffddec",
     "company": "Sword Health",
     "companyDomain": "swordhealth.com",
     "role": "AI Research Scientist (Multimodal post-training)",
@@ -3849,7 +3849,7 @@
     "posted": "2026-06-18T11:16:45.121Z"
   },
   {
-    "slug": "lever-4fda1f8f-e2ee-4093-99c6-caaa3b4f6688",
+    "dedupeKey": "lever:4fda1f8f-e2ee-4093-99c6-caaa3b4f6688",
     "company": "Sword Health",
     "companyDomain": "swordhealth.com",
     "role": "AI Research Scientist (Europe/UK - Remote)",
@@ -3879,7 +3879,7 @@
     "posted": "2026-06-18T11:07:43.064Z"
   },
   {
-    "slug": "recruitee-2646429",
+    "dedupeKey": "recruitee:2646429",
     "company": "CESI",
     "companyDomain": "cesi.fr",
     "role": "PhD position H/F - Federated Graph Neural Networks for Intrusion Detection in Industrial IoT Networks",
@@ -3910,7 +3910,7 @@
     "posted": "2026-06-18T10:06:55.000Z"
   },
   {
-    "slug": "greenhouse-8403370002",
+    "dedupeKey": "greenhouse:8403370002",
     "company": "Lyft",
     "companyDomain": "lyft.com",
     "role": "Applied Scientist- Pricing, Dynamic Pricing & Offer Selection",
@@ -3934,7 +3934,7 @@
     "posted": "2026-06-18T06:53:49.000Z"
   },
   {
-    "slug": "greenhouse-8402813002",
+    "dedupeKey": "greenhouse:8402813002",
     "company": "Lyft",
     "companyDomain": "lyft.com",
     "role": "Applied Scientist- Pricing, Dynamic Pricing & Offer Selection",
@@ -3958,7 +3958,7 @@
     "posted": "2026-06-18T06:53:49.000Z"
   },
   {
-    "slug": "workday-2026bf-001",
+    "dedupeKey": "workday:2026BF-001",
     "company": "IDEAYA Biosciences",
     "companyDomain": "ideayabio.com",
     "role": "Principal Research Scientist, Analytical Chemistry",
@@ -3990,7 +3990,7 @@
     "posted": "2026-06-18T00:00:00.000Z"
   },
   {
-    "slug": "workday-r169322",
+    "dedupeKey": "workday:R169322",
     "company": "Frame.io",
     "companyDomain": "frame.io",
     "role": "Manager, Applied Science for Data",
@@ -4019,7 +4019,7 @@
     "posted": "2026-06-18T00:00:00.000Z"
   },
   {
-    "slug": "ashby-5e846cd7-5719-440c-b8ef-2fba501847ae",
+    "dedupeKey": "ashby:5e846cd7-5719-440c-b8ef-2fba501847ae",
     "company": "Sesame",
     "companyDomain": "sesame.com",
     "role": "Research Engineer",
@@ -4037,7 +4037,7 @@
     "posted": "2026-06-17T23:55:13.462Z"
   },
   {
-    "slug": "greenhouse-7573612",
+    "dedupeKey": "greenhouse:7573612",
     "company": "Rubrik",
     "companyDomain": "rubrik.com",
     "role": "Data Science Researcher (Part-Time 25%)",
@@ -4063,7 +4063,7 @@
     "posted": "2026-06-17T17:59:15.000Z"
   },
   {
-    "slug": "greenhouse-7776340003",
+    "dedupeKey": "greenhouse:7776340003",
     "company": "Clariti",
     "companyDomain": "claritisoftware.com",
     "role": "Senior AI Researcher ",
@@ -4100,7 +4100,7 @@
     "posted": "2026-06-17T16:46:09.000Z"
   },
   {
-    "slug": "ashby-337633fa-99e8-4608-b758-3d19ad56a43b",
+    "dedupeKey": "ashby:337633fa-99e8-4608-b758-3d19ad56a43b",
     "company": "Dandelion Health Inc",
     "companyDomain": "dandelionhealth.ai",
     "role": "Clinical Informatics Researcher",
@@ -4123,7 +4123,7 @@
     "posted": "2026-06-17T16:40:27.600Z"
   },
   {
-    "slug": "smartrecruiters-744000132687759",
+    "dedupeKey": "smartrecruiters:744000132687759",
     "company": "Nexthink",
     "companyDomain": "nexthink.com",
     "role": "Senior AI Research Engineer",
@@ -4146,7 +4146,7 @@
     "posted": "2026-06-17T16:34:14.308Z"
   },
   {
-    "slug": "ashby-532f256d-337f-4a5e-8145-c92448dff4a6",
+    "dedupeKey": "ashby:532f256d-337f-4a5e-8145-c92448dff4a6",
     "company": "Diffractive Labs",
     "companyDomain": "diffractive.ai",
     "role": "Experimental Material Scientist",
@@ -4166,7 +4166,7 @@
     "posted": "2026-06-17T14:54:20.020Z"
   },
   {
-    "slug": "ashby-b1c28ac9-409b-476b-b19f-2cef92eed251",
+    "dedupeKey": "ashby:b1c28ac9-409b-476b-b19f-2cef92eed251",
     "company": "Diffractive Labs",
     "companyDomain": "diffractive.ai",
     "role": "Research Scientist, Machine Learning",
@@ -4191,7 +4191,7 @@
     "posted": "2026-06-17T12:54:48.017Z"
   },
   {
-    "slug": "ashby-3aa6bd8b-cf1d-43ec-83d5-5f9500142217",
+    "dedupeKey": "ashby:3aa6bd8b-cf1d-43ec-83d5-5f9500142217",
     "company": "Diffractive Labs",
     "companyDomain": "diffractive.ai",
     "role": "Computational Materials Scientist",
@@ -4213,7 +4213,7 @@
     "posted": "2026-06-17T12:53:02.267Z"
   },
   {
-    "slug": "ashby-f2cd4457-6f70-48f8-a747-dc2750fe46da",
+    "dedupeKey": "ashby:f2cd4457-6f70-48f8-a747-dc2750fe46da",
     "company": "Diffractive Labs",
     "companyDomain": "diffractive.ai",
     "role": "Research Engineer, Machine Learning",
@@ -4238,7 +4238,7 @@
     "posted": "2026-06-17T12:52:26.112Z"
   },
   {
-    "slug": "greenhouse-7309064",
+    "dedupeKey": "greenhouse:7309064",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Research Scientist, Prediction & Planning ",
@@ -4265,7 +4265,7 @@
     "posted": "2026-06-17T03:09:54.000Z"
   },
   {
-    "slug": "greenhouse-6506689",
+    "dedupeKey": "greenhouse:6506689",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Machine Learning Engineer, Prediction & Planning",
@@ -4291,7 +4291,7 @@
     "posted": "2026-06-17T03:09:54.000Z"
   },
   {
-    "slug": "greenhouse-7469425",
+    "dedupeKey": "greenhouse:7469425",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Research Scientist, RL for Autonomous Planning & World Modeling  ",
@@ -4316,7 +4316,7 @@
     "posted": "2026-06-17T03:09:54.000Z"
   },
   {
-    "slug": "greenhouse-7961704",
+    "dedupeKey": "greenhouse:7961704",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Senior Machine Learning Engineer / London (UK-LON-40BR) / Simulation (7XW)   ",
@@ -4342,7 +4342,7 @@
     "posted": "2026-06-17T03:09:54.000Z"
   },
   {
-    "slug": "greenhouse-8003626",
+    "dedupeKey": "greenhouse:8003626",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Senior Research Scientist, Perception",
@@ -4376,7 +4376,7 @@
     "posted": "2026-06-17T03:09:54.000Z"
   },
   {
-    "slug": "greenhouse-6563602",
+    "dedupeKey": "greenhouse:6563602",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Senior Machine Learning Engineer, Simulation",
@@ -4399,7 +4399,7 @@
     "posted": "2026-06-17T03:09:54.000Z"
   },
   {
-    "slug": "greenhouse-7766821",
+    "dedupeKey": "greenhouse:7766821",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Senior Research Scientist, World Action Modeling",
@@ -4426,7 +4426,7 @@
     "posted": "2026-06-17T03:09:54.000Z"
   },
   {
-    "slug": "greenhouse-7430187",
+    "dedupeKey": "greenhouse:7430187",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Senior Machine Learning Engineer, Simulation",
@@ -4449,7 +4449,7 @@
     "posted": "2026-06-17T03:09:54.000Z"
   },
   {
-    "slug": "greenhouse-7891021",
+    "dedupeKey": "greenhouse:7891021",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Senior Safety Researcher, Computational Behavior Modeling",
@@ -4474,7 +4474,7 @@
     "posted": "2026-06-17T03:09:54.000Z"
   },
   {
-    "slug": "greenhouse-8001797",
+    "dedupeKey": "greenhouse:8001797",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Senior Machine Learning Engineer, Simulation Evaluation",
@@ -4504,7 +4504,7 @@
     "posted": "2026-06-17T03:09:54.000Z"
   },
   {
-    "slug": "greenhouse-7975025",
+    "dedupeKey": "greenhouse:7975025",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Staff Research Scientist, Perception",
@@ -4544,7 +4544,7 @@
     "posted": "2026-06-17T03:09:54.000Z"
   },
   {
-    "slug": "greenhouse-7774356",
+    "dedupeKey": "greenhouse:7774356",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Senior Staff Machine Learning Engineer, Depot Automation",
@@ -4565,7 +4565,7 @@
     "posted": "2026-06-17T03:09:54.000Z"
   },
   {
-    "slug": "greenhouse-7493959",
+    "dedupeKey": "greenhouse:7493959",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Staff Machine Learning Engineer",
@@ -4591,7 +4591,7 @@
     "posted": "2026-06-17T03:09:54.000Z"
   },
   {
-    "slug": "greenhouse-7991190",
+    "dedupeKey": "greenhouse:7991190",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Staff Machine Learning Engineer, Multi-Modal Perception ",
@@ -4620,7 +4620,7 @@
     "posted": "2026-06-17T03:09:54.000Z"
   },
   {
-    "slug": "greenhouse-6503285",
+    "dedupeKey": "greenhouse:6503285",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Staff Machine Learning Engineer, Simulation",
@@ -4645,7 +4645,7 @@
     "posted": "2026-06-17T03:09:54.000Z"
   },
   {
-    "slug": "greenhouse-7947253",
+    "dedupeKey": "greenhouse:7947253",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Staff Machine Learning Engineer, Simulation",
@@ -4670,7 +4670,7 @@
     "posted": "2026-06-17T03:09:54.000Z"
   },
   {
-    "slug": "greenhouse-7942779",
+    "dedupeKey": "greenhouse:7942779",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Staff Machine Learning Engineer, Simulation",
@@ -4695,7 +4695,7 @@
     "posted": "2026-06-17T03:09:54.000Z"
   },
   {
-    "slug": "greenhouse-7561880",
+    "dedupeKey": "greenhouse:7561880",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Technical Lead Manager, Perception, Traffic Control Understanding",
@@ -4723,7 +4723,7 @@
     "posted": "2026-06-17T03:09:54.000Z"
   },
   {
-    "slug": "greenhouse-7516860",
+    "dedupeKey": "greenhouse:7516860",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Technical Lead Manager, Perception, Vehicle Understanding",
@@ -4746,7 +4746,7 @@
     "posted": "2026-06-17T03:09:54.000Z"
   },
   {
-    "slug": "ashby-39b89d0a-1ade-45fd-9c70-cbbceb7ce45d",
+    "dedupeKey": "ashby:39b89d0a-1ade-45fd-9c70-cbbceb7ce45d",
     "company": "Kind Humanoid",
     "companyDomain": "kindhumanoid.com",
     "role": "Biomechanics Researcher",
@@ -4770,7 +4770,7 @@
     "posted": "2026-06-17T01:01:09.786Z"
   },
   {
-    "slug": "workday-jr0284885",
+    "dedupeKey": "workday:JR0284885",
     "company": "Intel",
     "companyDomain": "intel.com",
     "role": "AIG Power Delivery Pathfinding Researcher",
@@ -4795,7 +4795,7 @@
     "posted": "2026-06-17T00:00:00.000Z"
   },
   {
-    "slug": "workday-r0025843",
+    "dedupeKey": "workday:R0025843",
     "company": "Roquette",
     "companyDomain": "roquette.com",
     "role": "Senior Applications Scientist",
@@ -4826,7 +4826,7 @@
     "posted": "2026-06-17T00:00:00.000Z"
   },
   {
-    "slug": "ashby-0aea232d-aaac-4a2f-b26e-6b1cf23f8466",
+    "dedupeKey": "ashby:0aea232d-aaac-4a2f-b26e-6b1cf23f8466",
     "company": "Insitro",
     "companyDomain": "insitro.com",
     "role": "Senior Scientist, Cardiac Modeling",
@@ -4847,7 +4847,7 @@
     "posted": "2026-06-16T23:35:35.131Z"
   },
   {
-    "slug": "ashby-1bad12df-f443-426f-9d09-e96fc780d698",
+    "dedupeKey": "ashby:1bad12df-f443-426f-9d09-e96fc780d698",
     "company": "Snowflake",
     "companyDomain": "snowflake.com",
     "role": "AI Research Scientist, New Grad – Agents & Reinforcement Learning",
@@ -4869,7 +4869,7 @@
     "posted": "2026-06-16T22:14:57.725Z"
   },
   {
-    "slug": "ashby-340021ba-9be9-47dd-a609-0bc17b9ebd26",
+    "dedupeKey": "ashby:340021ba-9be9-47dd-a609-0bc17b9ebd26",
     "company": "Crosby",
     "companyDomain": "crosby.ai",
     "role": "Crosby Intelligence Fellowship",
@@ -4887,7 +4887,7 @@
     "posted": "2026-06-16T20:40:47.107Z"
   },
   {
-    "slug": "greenhouse-7565086",
+    "dedupeKey": "greenhouse:7565086",
     "company": "Roblox",
     "companyDomain": "roblox.com",
     "role": "Principal Machine Learning Engineer, Alt Defense",
@@ -4916,7 +4916,7 @@
     "posted": "2026-06-16T20:35:44.000Z"
   },
   {
-    "slug": "greenhouse-7142298",
+    "dedupeKey": "greenhouse:7142298",
     "company": "Roblox",
     "companyDomain": "roblox.com",
     "role": "[2026] Applied Scientist - PhD Intern",
@@ -4944,7 +4944,7 @@
     "posted": "2026-06-16T20:35:44.000Z"
   },
   {
-    "slug": "greenhouse-7655346",
+    "dedupeKey": "greenhouse:7655346",
     "company": "Roblox",
     "companyDomain": "roblox.com",
     "role": "Principal/Senior Machine Learning Scientist - Search and Discovery ",
@@ -4969,7 +4969,7 @@
     "posted": "2026-06-16T20:35:44.000Z"
   },
   {
-    "slug": "greenhouse-6004814004",
+    "dedupeKey": "greenhouse:6004814004",
     "company": "Garner Health",
     "companyDomain": "getgarner.com",
     "role": "Staff Applied Scientist",
@@ -5000,7 +5000,7 @@
     "posted": "2026-06-16T19:03:19.000Z"
   },
   {
-    "slug": "greenhouse-7439020",
+    "dedupeKey": "greenhouse:7439020",
     "company": "Nuro",
     "companyDomain": "nuro.ai",
     "role": "ML Research Scientist, Prediction & Smart Agents",
@@ -5027,7 +5027,7 @@
     "posted": "2026-06-16T18:01:37.000Z"
   },
   {
-    "slug": "greenhouse-6121565",
+    "dedupeKey": "greenhouse:6121565",
     "company": "Nuro",
     "companyDomain": "nuro.ai",
     "role": "Senior/Staff Machine Learning Research Scientist: Generative Modeling for Planning",
@@ -5056,7 +5056,7 @@
     "posted": "2026-06-16T18:01:11.000Z"
   },
   {
-    "slug": "greenhouse-5416913",
+    "dedupeKey": "greenhouse:5416913",
     "company": "Nuro",
     "companyDomain": "nuro.ai",
     "role": "Machine Learning Research Scientist: Generative Modeling for Planning",
@@ -5088,7 +5088,7 @@
     "posted": "2026-06-16T18:00:53.000Z"
   },
   {
-    "slug": "greenhouse-5434059",
+    "dedupeKey": "greenhouse:5434059",
     "company": "Nuro",
     "companyDomain": "nuro.ai",
     "role": "Machine Learning Research Scientist, Behavior Planning and Prediction ",
@@ -5116,7 +5116,7 @@
     "posted": "2026-06-16T17:59:54.000Z"
   },
   {
-    "slug": "ashby-a49ac6e4-4baa-4980-b9e8-8aa6b8dcde86",
+    "dedupeKey": "ashby:a49ac6e4-4baa-4980-b9e8-8aa6b8dcde86",
     "company": "Crosby",
     "companyDomain": "crosby.ai",
     "role": "Member of Technical Staff, Research Scientist",
@@ -5136,7 +5136,7 @@
     "posted": "2026-06-16T16:07:11.940Z"
   },
   {
-    "slug": "ashby-81acae55-8c8e-40d9-b601-7ba99e22a6e2",
+    "dedupeKey": "ashby:81acae55-8c8e-40d9-b601-7ba99e22a6e2",
     "company": "Crosby",
     "companyDomain": "crosby.ai",
     "role": "Member of Technical Staff, Research Engineer",
@@ -5154,7 +5154,7 @@
     "posted": "2026-06-16T16:07:02.810Z"
   },
   {
-    "slug": "ashby-da13a961-dc4e-4bc4-a10f-45cc3fd79329",
+    "dedupeKey": "ashby:da13a961-dc4e-4bc4-a10f-45cc3fd79329",
     "company": "ILLUIN Technology",
     "companyDomain": "illuin.tech",
     "role": "Lead Applied Research Scientist (F/H)",
@@ -5182,7 +5182,7 @@
     "posted": "2026-06-16T15:12:27.028Z"
   },
   {
-    "slug": "lever-4c3cd18f-fe79-4548-a16a-3341abafdec0",
+    "dedupeKey": "lever:4c3cd18f-fe79-4548-a16a-3341abafdec0",
     "company": "DroneDeploy",
     "companyDomain": "dronedeploy.com",
     "role": "Senior Applied Research Engineer, 3D Computer Vision (USA)",
@@ -5218,7 +5218,7 @@
     "posted": "2026-06-16T14:27:24.091Z"
   },
   {
-    "slug": "ashby-936d934d-7499-425e-8b0c-8964da0f515a",
+    "dedupeKey": "ashby:936d934d-7499-425e-8b0c-8964da0f515a",
     "company": "Quantexa",
     "companyDomain": "quantexa.com",
     "role": "  NLP Data Scientist",
@@ -5246,7 +5246,7 @@
     "posted": "2026-06-16T12:52:01.393Z"
   },
   {
-    "slug": "greenhouse-7966928",
+    "dedupeKey": "greenhouse:7966928",
     "company": "Twilio",
     "companyDomain": "twilio.com",
     "role": "Team Lead (L6)",
@@ -5274,7 +5274,7 @@
     "posted": "2026-06-16T12:38:35.000Z"
   },
   {
-    "slug": "greenhouse-4570674006",
+    "dedupeKey": "greenhouse:4570674006",
     "company": "Mopub",
     "companyDomain": "mopub.com",
     "role": "Applied Research Scientist",
@@ -5295,7 +5295,7 @@
     "posted": "2026-06-16T08:57:32.000Z"
   },
   {
-    "slug": "greenhouse-4601725006",
+    "dedupeKey": "greenhouse:4601725006",
     "company": "Mopub",
     "companyDomain": "mopub.com",
     "role": "Foundational Research Scientist",
@@ -5313,7 +5313,7 @@
     "posted": "2026-06-16T08:57:32.000Z"
   },
   {
-    "slug": "ashby-ea1346b3-18d7-4f5e-a59c-c85446c4c226",
+    "dedupeKey": "ashby:ea1346b3-18d7-4f5e-a59c-c85446c4c226",
     "company": "Diffractive Labs",
     "companyDomain": "diffractive.ai",
     "role": "Condensed Matter Physicist",
@@ -5339,7 +5339,7 @@
     "posted": "2026-06-16T01:47:48.209Z"
   },
   {
-    "slug": "workday-jr2016804",
+    "dedupeKey": "workday:JR2016804",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior AI Compiler Engineer - Applied Research",
@@ -5366,7 +5366,7 @@
     "posted": "2026-06-16T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr0284192",
+    "dedupeKey": "workday:JR0284192",
     "company": "Intel",
     "companyDomain": "intel.com",
     "role": "Quantum Computing Measurement Engineer",
@@ -5392,7 +5392,7 @@
     "posted": "2026-06-16T00:00:00.000Z"
   },
   {
-    "slug": "workday-r014326",
+    "dedupeKey": "workday:R014326",
     "company": "AVEVA",
     "companyDomain": "aveva.com",
     "role": "Industrial PhD Applied Research in Supply Chain Planning (O&G)",
@@ -5425,7 +5425,7 @@
     "posted": "2026-06-16T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2018661",
+    "dedupeKey": "workday:JR2018661",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Research Scientist, Nemotron Post-training",
@@ -5450,7 +5450,7 @@
     "posted": "2026-06-16T00:00:00.000Z"
   },
   {
-    "slug": "ashby-4ffa1484-38b2-4022-a556-180bfa912698",
+    "dedupeKey": "ashby:4ffa1484-38b2-4022-a556-180bfa912698",
     "company": "Iambic Therapeutics, Inc",
     "companyDomain": "iambic.ai",
     "role": "Senior Scientist, Computational Chemistry",
@@ -5476,7 +5476,7 @@
     "posted": "2026-06-15T23:50:29.667Z"
   },
   {
-    "slug": "ashby-9ddc2691-8f3d-491e-ab10-3a96fe32600a",
+    "dedupeKey": "ashby:9ddc2691-8f3d-491e-ab10-3a96fe32600a",
     "company": "Iambic Therapeutics, Inc",
     "companyDomain": "iambic.ai",
     "role": " Research Scientist II/Senior, Discovery Machine Learning",
@@ -5494,7 +5494,7 @@
     "posted": "2026-06-15T23:49:23.840Z"
   },
   {
-    "slug": "greenhouse-6035518004",
+    "dedupeKey": "greenhouse:6035518004",
     "company": "Snorkel AI",
     "companyDomain": "snorkel.ai",
     "role": "Director, Research - Frontier Benchmarks",
@@ -5513,7 +5513,7 @@
     "posted": "2026-06-15T22:41:52.000Z"
   },
   {
-    "slug": "greenhouse-7095296",
+    "dedupeKey": "greenhouse:7095296",
     "company": "Nuro",
     "companyDomain": "nuro.ai",
     "role": "Senior ML Research Scientist, End-to-End Autonomous Driving",
@@ -5546,7 +5546,7 @@
     "posted": "2026-06-15T20:35:15.000Z"
   },
   {
-    "slug": "greenhouse-5157661007",
+    "dedupeKey": "greenhouse:5157661007",
     "company": "Together AI",
     "companyDomain": "together.ai",
     "role": "Research Intern, Model Shaping (Fall 2026)",
@@ -5568,7 +5568,7 @@
     "posted": "2026-06-15T17:07:15.000Z"
   },
   {
-    "slug": "greenhouse-6027308004",
+    "dedupeKey": "greenhouse:6027308004",
     "company": "Olema Oncology",
     "companyDomain": "olema.com",
     "role": "Scientist II - Biology",
@@ -5594,7 +5594,7 @@
     "posted": "2026-06-15T15:59:50.000Z"
   },
   {
-    "slug": "greenhouse-5198104008",
+    "dedupeKey": "greenhouse:5198104008",
     "company": "Block",
     "companyDomain": "block.xyz",
     "role": "Staff Machine Learning Engineer, Underwriting and Credit",
@@ -5630,7 +5630,7 @@
     "posted": "2026-06-15T14:50:43.000Z"
   },
   {
-    "slug": "greenhouse-4284224009",
+    "dedupeKey": "greenhouse:4284224009",
     "company": "Lila Sciences",
     "companyDomain": "lila.ai",
     "role": "Co-op, Analytical Chemistry",
@@ -5651,7 +5651,7 @@
     "posted": "2026-06-15T13:00:01.000Z"
   },
   {
-    "slug": "smartrecruiters-744000132196718",
+    "dedupeKey": "smartrecruiters:744000132196718",
     "company": "Intuitive",
     "companyDomain": "intuitive.com",
     "role": "Contingent Research Data Analyst, HEOR",
@@ -5682,7 +5682,7 @@
     "posted": "2026-06-15T12:57:57.854Z"
   },
   {
-    "slug": "lever-508c2b9c-fa99-4c63-97b5-adef13bd66f3",
+    "dedupeKey": "lever:508c2b9c-fa99-4c63-97b5-adef13bd66f3",
     "company": "Orca Bio",
     "companyDomain": "orcabio.com",
     "role": "Director, Analytical Development (Flow Cytometry & Method Validation)",
@@ -5717,7 +5717,7 @@
     "posted": "2026-06-15T11:57:50.108Z"
   },
   {
-    "slug": "ashby-1f1cd5ed-4cad-44df-9824-8e15a37a315b",
+    "dedupeKey": "ashby:1f1cd5ed-4cad-44df-9824-8e15a37a315b",
     "company": "Mecka",
     "companyDomain": "mecka.ai",
     "role": "Research Scientist – Computer Vision (Hand Tracking & Manipulation)",
@@ -5740,7 +5740,7 @@
     "posted": "2026-06-15T03:54:06.135Z"
   },
   {
-    "slug": "workday-26wd98879",
+    "dedupeKey": "workday:26WD98879",
     "company": "Autodesk",
     "companyDomain": "autodesk.co.uk",
     "role": "Principal Research & Design Engineer",
@@ -5773,7 +5773,7 @@
     "posted": "2026-06-15T00:00:00.000Z"
   },
   {
-    "slug": "workday-r167861",
+    "dedupeKey": "workday:R167861",
     "company": "Frame.io",
     "companyDomain": "frame.io",
     "role": "Principal Applied Researcher",
@@ -5804,7 +5804,7 @@
     "posted": "2026-06-15T00:00:00.000Z"
   },
   {
-    "slug": "greenhouse-7902034",
+    "dedupeKey": "greenhouse:7902034",
     "company": "Pinterest",
     "companyDomain": "pinterest.com",
     "role": "Staff Machine Learning Engineer, Ads Conversion",
@@ -5832,7 +5832,7 @@
     "posted": "2026-06-13T10:14:23.000Z"
   },
   {
-    "slug": "workday-26wd98298",
+    "dedupeKey": "workday:26WD98298",
     "company": "Autodesk",
     "companyDomain": "autodesk.co.uk",
     "role": "Research Lead / Principal Scientist & Manager Post-Training · Alignment · Reinforcement Learning Autodesk AI Lab: London · San Francisco · Toronto · Remote (US/CA/EU) -",
@@ -5862,7 +5862,7 @@
     "posted": "2026-06-13T00:00:00.000Z"
   },
   {
-    "slug": "ashby-8154a8c9-8204-464c-9b39-88a75e0201d6",
+    "dedupeKey": "ashby:8154a8c9-8204-464c-9b39-88a75e0201d6",
     "company": "Hippocratic AI",
     "companyDomain": "hippocraticai.com",
     "role": "Senior Staff Research Scientist, Speech Technologies",
@@ -5891,7 +5891,7 @@
     "posted": "2026-06-12T22:52:15.018Z"
   },
   {
-    "slug": "greenhouse-6020291004",
+    "dedupeKey": "greenhouse:6020291004",
     "company": "Antares Therapeutics",
     "companyDomain": "antaresrx.com",
     "role": "Sr. Principal Scientist, Analytical Development (Small Molecule)",
@@ -5915,7 +5915,7 @@
     "posted": "2026-06-12T22:08:12.000Z"
   },
   {
-    "slug": "greenhouse-6027039004",
+    "dedupeKey": "greenhouse:6027039004",
     "company": "Antares Therapeutics",
     "companyDomain": "antaresrx.com",
     "role": "Sr. Scientist/Principal Scientist, Translational Research and Clinical Biomarkers (Immunology)",
@@ -5935,7 +5935,7 @@
     "posted": "2026-06-12T22:06:58.000Z"
   },
   {
-    "slug": "rippling-0f10a813-51af-4755-aa6b-b1ff3bcf84de",
+    "dedupeKey": "rippling:0f10a813-51af-4755-aa6b-b1ff3bcf84de",
     "company": "Terray Therapeutics",
     "companyDomain": "terraytx.com",
     "role": "Scientist, Immunology",
@@ -5966,7 +5966,7 @@
     "posted": "2026-06-12T19:52:12.353Z"
   },
   {
-    "slug": "greenhouse-5157759007",
+    "dedupeKey": "greenhouse:5157759007",
     "company": "Together AI",
     "companyDomain": "together.ai",
     "role": "Research Intern, Inference (Fall 2026)",
@@ -5988,7 +5988,7 @@
     "posted": "2026-06-12T17:13:37.000Z"
   },
   {
-    "slug": "greenhouse-6018581004",
+    "dedupeKey": "greenhouse:6018581004",
     "company": "Strand Therapeutics",
     "companyDomain": "strandtx.com",
     "role": "Scientist / Senior Scientist, Process Sciences and Innovation",
@@ -6010,7 +6010,7 @@
     "posted": "2026-06-12T16:13:55.000Z"
   },
   {
-    "slug": "lever-1ce78c26-349b-42f2-b193-2ff0a86861dd",
+    "dedupeKey": "lever:1ce78c26-349b-42f2-b193-2ff0a86861dd",
     "company": "Tinder",
     "companyDomain": "tinder.com",
     "role": "Director of AI, Dating Outcomes",
@@ -6038,7 +6038,7 @@
     "posted": "2026-06-12T15:04:43.337Z"
   },
   {
-    "slug": "greenhouse-4705352005",
+    "dedupeKey": "greenhouse:4705352005",
     "company": "Nanopath",
     "companyDomain": "nanopath.com",
     "role": "Process Development Senior Research Associate / Associate Scientist",
@@ -6059,7 +6059,7 @@
     "posted": "2026-06-12T14:07:03.000Z"
   },
   {
-    "slug": "greenhouse-7988290",
+    "dedupeKey": "greenhouse:7988290",
     "company": "HackerRank",
     "companyDomain": "hackerrank.com",
     "role": "AI Researcher",
@@ -6080,7 +6080,7 @@
     "posted": "2026-06-12T13:27:48.000Z"
   },
   {
-    "slug": "greenhouse-5069336007",
+    "dedupeKey": "greenhouse:5069336007",
     "company": "Manifold Bio",
     "companyDomain": "manifold.bio",
     "role": "Scientist, mRNA/cDNA/Cell-Free Display",
@@ -6100,7 +6100,7 @@
     "posted": "2026-06-12T13:23:04.000Z"
   },
   {
-    "slug": "greenhouse-4896443101",
+    "dedupeKey": "greenhouse:4896443101",
     "company": "Prolific",
     "companyDomain": "prolific.com",
     "role": "Lead Applied Scientist",
@@ -6125,7 +6125,7 @@
     "posted": "2026-06-12T13:17:42.000Z"
   },
   {
-    "slug": "lever-32b9671f-d9ee-4853-9d16-df4ebe4176ac",
+    "dedupeKey": "lever:32b9671f-d9ee-4853-9d16-df4ebe4176ac",
     "company": "WHOOP",
     "companyDomain": "whoop.com",
     "role": "Senior Signal Processing Engineer",
@@ -6160,7 +6160,7 @@
     "posted": "2026-06-12T11:16:20.302Z"
   },
   {
-    "slug": "greenhouse-6018577004",
+    "dedupeKey": "greenhouse:6018577004",
     "company": "Strand Therapeutics",
     "companyDomain": "strandtx.com",
     "role": "Associate Scientist I/II, Technical Operations Automation",
@@ -6184,7 +6184,7 @@
     "posted": "2026-06-12T00:05:54.000Z"
   },
   {
-    "slug": "workday-r-100052",
+    "dedupeKey": "workday:R-100052",
     "company": "CRISPR Therapeutics",
     "companyDomain": "crisprtx.com",
     "role": "Scientist II, LNP",
@@ -6213,7 +6213,7 @@
     "posted": "2026-06-12T00:00:00.000Z"
   },
   {
-    "slug": "workday-r169520",
+    "dedupeKey": "workday:R169520",
     "company": "Frame.io",
     "companyDomain": "frame.io",
     "role": "Principal Applied Scientist",
@@ -6242,7 +6242,7 @@
     "posted": "2026-06-12T00:00:00.000Z"
   },
   {
-    "slug": "workday-26wd98297",
+    "dedupeKey": "workday:26WD98297",
     "company": "Autodesk",
     "companyDomain": "autodesk.co.uk",
     "role": "Research Lead / Principal Scientist & Manager  Post-Training · Alignment · Reinforcement Learning  Autodesk AI Lab:  Toronto · Remote (CA)",
@@ -6266,7 +6266,7 @@
     "posted": "2026-06-12T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2018685",
+    "dedupeKey": "workday:JR2018685",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Research Scientist, Deep Learning and Computer Vision - New College Graduate",
@@ -6289,7 +6289,7 @@
     "posted": "2026-06-12T00:00:00.000Z"
   },
   {
-    "slug": "ashby-c392f794-c8f9-42f9-baf1-75eb27c56574",
+    "dedupeKey": "ashby:c392f794-c8f9-42f9-baf1-75eb27c56574",
     "company": "Snowflake",
     "companyDomain": "snowflake.com",
     "role": "Post-Doctoral Researcher (Fixed-Term)",
@@ -6310,7 +6310,7 @@
     "posted": "2026-06-11T22:06:27.278Z"
   },
   {
-    "slug": "greenhouse-7697137",
+    "dedupeKey": "greenhouse:7697137",
     "company": "Pinterest",
     "companyDomain": "pinterest.com",
     "role": "Machine Learning Engineer II, Computer Vision Applied Science ",
@@ -6336,7 +6336,7 @@
     "posted": "2026-06-11T20:40:31.000Z"
   },
   {
-    "slug": "greenhouse-6020366004",
+    "dedupeKey": "greenhouse:6020366004",
     "company": "Ultima Genomics",
     "companyDomain": "ultimagenomics.com",
     "role": "Senior Scientist, Surface Chemistry",
@@ -6369,7 +6369,7 @@
     "posted": "2026-06-11T19:04:51.000Z"
   },
   {
-    "slug": "greenhouse-4253548009",
+    "dedupeKey": "greenhouse:4253548009",
     "company": "Lila Sciences",
     "companyDomain": "lila.ai",
     "role": "Scientist, Epitaxial Thin Film Synthesis",
@@ -6398,7 +6398,7 @@
     "posted": "2026-06-11T19:01:57.000Z"
   },
   {
-    "slug": "lever-d3bafa91-c50e-4b45-9341-7f752c670a0c",
+    "dedupeKey": "lever:d3bafa91-c50e-4b45-9341-7f752c670a0c",
     "company": "Cellares",
     "companyDomain": "cellares.com",
     "role": "Supervising Principal Scientist, Process Development",
@@ -6437,7 +6437,7 @@
     "posted": "2026-06-11T18:27:55.549Z"
   },
   {
-    "slug": "smartrecruiters-744000131739316",
+    "dedupeKey": "smartrecruiters:744000131739316",
     "company": "Intuitive",
     "companyDomain": "intuitive.com",
     "role": "Senior AI/ML Research Engineer (Computer Vision)",
@@ -6489,7 +6489,7 @@
     "posted": "2026-06-11T18:27:23.335Z"
   },
   {
-    "slug": "smartrecruiters-744000131739199",
+    "dedupeKey": "smartrecruiters:744000131739199",
     "company": "Intuitive",
     "companyDomain": "intuitive.com",
     "role": "Senior AI/ML Research Engineer – Model development",
@@ -6524,7 +6524,7 @@
     "posted": "2026-06-11T18:26:18.496Z"
   },
   {
-    "slug": "lever-39d629e8-caff-48a1-b04c-ea7d13b93ad4",
+    "dedupeKey": "lever:39d629e8-caff-48a1-b04c-ea7d13b93ad4",
     "company": "Cellares",
     "companyDomain": "cellares.com",
     "role": "Scientist, Process Development (I,II,III)",
@@ -6552,7 +6552,7 @@
     "posted": "2026-06-11T18:22:11.514Z"
   },
   {
-    "slug": "greenhouse-6020140004",
+    "dedupeKey": "greenhouse:6020140004",
     "company": "Afresh Technologies",
     "companyDomain": "afresh.com",
     "role": "Staff Applied Scientist",
@@ -6577,7 +6577,7 @@
     "posted": "2026-06-11T16:33:09.000Z"
   },
   {
-    "slug": "greenhouse-6020122004",
+    "dedupeKey": "greenhouse:6020122004",
     "company": "Afresh Technologies",
     "companyDomain": "afresh.com",
     "role": "Staff Applied Scientist",
@@ -6601,7 +6601,7 @@
     "posted": "2026-06-11T16:01:02.000Z"
   },
   {
-    "slug": "lever-adcb212a-b83c-4da1-a9d4-91b91fdd6155",
+    "dedupeKey": "lever:adcb212a-b83c-4da1-a9d4-91b91fdd6155",
     "company": "Shield AI",
     "companyDomain": "shield.ai",
     "role": "Staff Engineer, Deep Learning (R5180)",
@@ -6631,7 +6631,7 @@
     "posted": "2026-06-11T11:42:25.558Z"
   },
   {
-    "slug": "greenhouse-7906792",
+    "dedupeKey": "greenhouse:7906792",
     "company": "Adyen",
     "companyDomain": "adyen.com",
     "role": "Senior AI Research Scientist",
@@ -6662,7 +6662,7 @@
     "posted": "2026-06-11T10:26:04.000Z"
   },
   {
-    "slug": "greenhouse-6572669",
+    "dedupeKey": "greenhouse:6572669",
     "company": "Datadog",
     "companyDomain": "datadoghq.com",
     "role": "AI Research Scientist - Datadog AI Research (DAIR)",
@@ -6694,7 +6694,7 @@
     "posted": "2026-06-11T07:24:38.000Z"
   },
   {
-    "slug": "greenhouse-7194969",
+    "dedupeKey": "greenhouse:7194969",
     "company": "Datadog",
     "companyDomain": "datadoghq.com",
     "role": "AI Research Engineer - Datadog AI Research (DAIR)",
@@ -6730,7 +6730,7 @@
     "posted": "2026-06-11T07:24:38.000Z"
   },
   {
-    "slug": "greenhouse-6652564",
+    "dedupeKey": "greenhouse:6652564",
     "company": "Datadog",
     "companyDomain": "datadoghq.com",
     "role": "AI Research Scientist – Datadog AI Research (DAIR)",
@@ -6761,7 +6761,7 @@
     "posted": "2026-06-11T07:24:38.000Z"
   },
   {
-    "slug": "greenhouse-7183013",
+    "dedupeKey": "greenhouse:7183013",
     "company": "Datadog",
     "companyDomain": "datadoghq.com",
     "role": "AI Research Engineer - Datadog AI Research (DAIR)",
@@ -6796,7 +6796,7 @@
     "posted": "2026-06-11T07:24:38.000Z"
   },
   {
-    "slug": "greenhouse-6781197",
+    "dedupeKey": "greenhouse:6781197",
     "company": "Datadog",
     "companyDomain": "datadoghq.com",
     "role": "Senior Applied Scientist",
@@ -6821,50 +6821,7 @@
     "posted": "2026-06-11T07:24:38.000Z"
   },
   {
-    "slug": "bamboohr-27",
-    "company": "InterVenn Biosciences",
-    "companyDomain": "intervenn.com",
-    "role": "Principal Data Scientist",
-    "applyUrl": "",
-    "location": "South San Francisco, California",
-    "remote": "unknown",
-    "level": "principal",
-    "skills": [
-      "python",
-      "r",
-      "pytorch",
-      "tensorflow",
-      "scikit-learn",
-      "xgboost",
-      "lightgbm",
-      "classical_ml",
-      "deep_learning",
-      "foundation_models",
-      "generative_ai",
-      "graph_neural_networks",
-      "probabilistic_modeling",
-      "bayesian_methods",
-      "uncertainty_quantification",
-      "cross_validation",
-      "calibration",
-      "feature_engineering",
-      "multimodal_modeling",
-      "bioinformatics",
-      "computational_biology",
-      "glycoproteomics",
-      "proteomics",
-      "genomics",
-      "transcriptomics",
-      "batch_effect_correction",
-      "normalization",
-      "interpretability",
-      "representation_learning",
-      "clinical_diagnostics"
-    ],
-    "posted": "2026-06-11T00:00:00.000Z"
-  },
-  {
-    "slug": "workday-r28940",
+    "dedupeKey": "workday:R28940",
     "company": "CrowdStrike",
     "companyDomain": "crowdstrike.com",
     "role": "Director, AI Alignment and Interpretability (Remote)",
@@ -6894,7 +6851,7 @@
     "posted": "2026-06-11T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2019729",
+    "dedupeKey": "workday:JR2019729",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Research Scientist, Efficient Deep Learning - New College Grad 2026",
@@ -6927,7 +6884,7 @@
     "posted": "2026-06-11T00:00:00.000Z"
   },
   {
-    "slug": "workday-r161074",
+    "dedupeKey": "workday:R161074",
     "company": "Frame.io",
     "companyDomain": "frame.io",
     "role": "Staff Applied Scientist, Firefly Foundry",
@@ -6955,7 +6912,7 @@
     "posted": "2026-06-11T00:00:00.000Z"
   },
   {
-    "slug": "workday-r161073",
+    "dedupeKey": "workday:R161073",
     "company": "Frame.io",
     "companyDomain": "frame.io",
     "role": "Applied Scientist, Firefly Foundry",
@@ -6980,7 +6937,7 @@
     "posted": "2026-06-11T00:00:00.000Z"
   },
   {
-    "slug": "workday-26wd98899",
+    "dedupeKey": "workday:26WD98899",
     "company": "Autodesk",
     "companyDomain": "autodesk.co.uk",
     "role": "Senior Research Engineer",
@@ -7004,7 +6961,7 @@
     "posted": "2026-06-11T00:00:00.000Z"
   },
   {
-    "slug": "greenhouse-5231543008",
+    "dedupeKey": "greenhouse:5231543008",
     "company": "Alpha-9 Oncology",
     "companyDomain": "a9oncology.com",
     "role": "Senior Director, Clinical Dosimetry & Radiation Sciences",
@@ -7029,7 +6986,7 @@
     "posted": "2026-06-10T19:59:20.000Z"
   },
   {
-    "slug": "lever-14d3ccc7-5e87-4ba9-a407-8f8a62c725b9",
+    "dedupeKey": "lever:14d3ccc7-5e87-4ba9-a407-8f8a62c725b9",
     "company": "Cellares",
     "companyDomain": "cellares.com",
     "role": "Associate Scientist, Process Development (I,II,III)",
@@ -7060,7 +7017,7 @@
     "posted": "2026-06-10T19:02:19.741Z"
   },
   {
-    "slug": "lever-0bf5bbb9-d5ce-44fd-bf08-98c127c34f67",
+    "dedupeKey": "lever:0bf5bbb9-d5ce-44fd-bf08-98c127c34f67",
     "company": "Cellares",
     "companyDomain": "cellares.com",
     "role": "Research Associate, Process Development (I,II,III)",
@@ -7084,7 +7041,7 @@
     "posted": "2026-06-10T18:34:07.207Z"
   },
   {
-    "slug": "greenhouse-4893479101",
+    "dedupeKey": "greenhouse:4893479101",
     "company": "Riverlane",
     "companyDomain": "riverlane.com",
     "role": "Quantum Scientist - Applied QEC",
@@ -7110,7 +7067,7 @@
     "posted": "2026-06-10T17:17:12.000Z"
   },
   {
-    "slug": "workday-jr345624",
+    "dedupeKey": "workday:JR345624",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Software Engineering LMTS",
@@ -7137,7 +7094,7 @@
     "posted": "2026-06-10T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr-0018557",
+    "dedupeKey": "workday:JR-0018557",
     "company": "ArianeGroup",
     "companyDomain": "ariane.group",
     "role": "CDI - Ingénieur de recherches en synthèse organique (F/H)",
@@ -7165,7 +7122,7 @@
     "posted": "2026-06-10T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2019420",
+    "dedupeKey": "workday:JR2019420",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Deep Learning Performance Architect",
@@ -7189,7 +7146,7 @@
     "posted": "2026-06-10T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2018287",
+    "dedupeKey": "workday:JR2018287",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Optical Networking Research Post-Doc",
@@ -7219,7 +7176,7 @@
     "posted": "2026-06-10T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2019462",
+    "dedupeKey": "workday:JR2019462",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Scientist, Synthetic Data and Privacy",
@@ -7253,7 +7210,7 @@
     "posted": "2026-06-10T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2019460",
+    "dedupeKey": "workday:JR2019460",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Scientist, Synthetic Data Generation",
@@ -7282,7 +7239,7 @@
     "posted": "2026-06-10T00:00:00.000Z"
   },
   {
-    "slug": "ashby-e786c87c-054c-4ad7-a3c1-f8cf75f93c42",
+    "dedupeKey": "ashby:e786c87c-054c-4ad7-a3c1-f8cf75f93c42",
     "company": "UiPath",
     "companyDomain": "uipath.com",
     "role": "Principal Applied Scientist ",
@@ -7305,7 +7262,7 @@
     "posted": "2026-06-09T21:46:56.834Z"
   },
   {
-    "slug": "greenhouse-5108009008",
+    "dedupeKey": "greenhouse:5108009008",
     "company": "Block",
     "companyDomain": "block.xyz",
     "role": "Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)",
@@ -7334,7 +7291,7 @@
     "posted": "2026-06-09T21:05:16.000Z"
   },
   {
-    "slug": "greenhouse-5108007008",
+    "dedupeKey": "greenhouse:5108007008",
     "company": "Block",
     "companyDomain": "block.xyz",
     "role": "Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)",
@@ -7368,7 +7325,7 @@
     "posted": "2026-06-09T21:05:16.000Z"
   },
   {
-    "slug": "ashby-5a431519-ee6b-4cb7-8a3a-422727053a09",
+    "dedupeKey": "ashby:5a431519-ee6b-4cb7-8a3a-422727053a09",
     "company": "Dyna Robotics",
     "companyDomain": "dynarobotics.ai",
     "role": "Research Internship",
@@ -7383,7 +7340,7 @@
     "posted": "2026-06-09T19:53:19.472Z"
   },
   {
-    "slug": "ashby-bc3c5f17-0306-4525-a7cf-f24d4997a78d",
+    "dedupeKey": "ashby:bc3c5f17-0306-4525-a7cf-f24d4997a78d",
     "company": "SandboxAQ",
     "companyDomain": "sandboxaq.com",
     "role": "ML Research Scientist, Co-Folding and Affinity",
@@ -7414,7 +7371,7 @@
     "posted": "2026-06-09T17:33:14.928Z"
   },
   {
-    "slug": "smartrecruiters-744000131179324",
+    "dedupeKey": "smartrecruiters:744000131179324",
     "company": "Intuitive",
     "companyDomain": "intuitive.com",
     "role": "Sr. Machine Learning Engineer, Medical Imaging",
@@ -7449,7 +7406,7 @@
     "posted": "2026-06-09T15:24:21.501Z"
   },
   {
-    "slug": "teamtailor-7881513",
+    "dedupeKey": "teamtailor:7881513",
     "company": "again",
     "companyDomain": "again.bio",
     "role": "R&D Intern",
@@ -7473,7 +7430,7 @@
     "posted": "2026-06-09T14:40:45.000Z"
   },
   {
-    "slug": "greenhouse-7992569",
+    "dedupeKey": "greenhouse:7992569",
     "company": "Formlabs",
     "companyDomain": "formlabs.com",
     "role": "SLS Materials Scientist",
@@ -7494,7 +7451,7 @@
     "posted": "2026-06-09T13:27:58.000Z"
   },
   {
-    "slug": "greenhouse-7992568",
+    "dedupeKey": "greenhouse:7992568",
     "company": "Formlabs",
     "companyDomain": "formlabs.com",
     "role": "SLS Materials Scientist",
@@ -7515,7 +7472,7 @@
     "posted": "2026-06-09T13:27:57.000Z"
   },
   {
-    "slug": "greenhouse-7992567",
+    "dedupeKey": "greenhouse:7992567",
     "company": "Formlabs",
     "companyDomain": "formlabs.com",
     "role": "Senior SLS Materials Scientist",
@@ -7537,7 +7494,7 @@
     "posted": "2026-06-09T13:27:56.000Z"
   },
   {
-    "slug": "greenhouse-7992565",
+    "dedupeKey": "greenhouse:7992565",
     "company": "Formlabs",
     "companyDomain": "formlabs.com",
     "role": "Senior SLS Materials Scientist",
@@ -7559,7 +7516,7 @@
     "posted": "2026-06-09T13:27:56.000Z"
   },
   {
-    "slug": "greenhouse-7992566",
+    "dedupeKey": "greenhouse:7992566",
     "company": "Formlabs",
     "companyDomain": "formlabs.com",
     "role": "Senior Materials Scientist",
@@ -7578,7 +7535,7 @@
     "posted": "2026-06-09T13:27:55.000Z"
   },
   {
-    "slug": "greenhouse-7992564",
+    "dedupeKey": "greenhouse:7992564",
     "company": "Formlabs",
     "companyDomain": "formlabs.com",
     "role": "Senior Materials Scientist",
@@ -7598,7 +7555,7 @@
     "posted": "2026-06-09T13:27:54.000Z"
   },
   {
-    "slug": "greenhouse-7992563",
+    "dedupeKey": "greenhouse:7992563",
     "company": "Formlabs",
     "companyDomain": "formlabs.com",
     "role": "Materials Scientist - Photopolymer Development",
@@ -7624,7 +7581,7 @@
     "posted": "2026-06-09T13:27:53.000Z"
   },
   {
-    "slug": "greenhouse-7992561",
+    "dedupeKey": "greenhouse:7992561",
     "company": "Formlabs",
     "companyDomain": "formlabs.com",
     "role": "Materials Scientist",
@@ -7644,7 +7601,7 @@
     "posted": "2026-06-09T13:27:52.000Z"
   },
   {
-    "slug": "greenhouse-7992562",
+    "dedupeKey": "greenhouse:7992562",
     "company": "Formlabs",
     "companyDomain": "formlabs.com",
     "role": "Materials Scientist - Photopolymer Development",
@@ -7670,7 +7627,7 @@
     "posted": "2026-06-09T13:27:52.000Z"
   },
   {
-    "slug": "greenhouse-7992557",
+    "dedupeKey": "greenhouse:7992557",
     "company": "Formlabs",
     "companyDomain": "formlabs.com",
     "role": "Materials Scientist",
@@ -7690,40 +7647,7 @@
     "posted": "2026-06-09T13:27:51.000Z"
   },
   {
-    "slug": "smartrecruiters-744000131054399",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "Ingénieur(e) R&D en Surveillance de l’Espace expérimenté(e) - Spatial - Toulouse",
-    "applyUrl": "",
-    "location": "Toulouse, Occitanie, France",
-    "remote": "onsite",
-    "level": "senior",
-    "skills": [
-      "space_mechanics",
-      "applied_mathematics",
-      "scientific_computing",
-      "algorithm_design",
-      "optimization",
-      "probability_theory",
-      "covariance_propagation",
-      "orbital_mechanics",
-      "space_surveillance",
-      "object_cataloging",
-      "collision_risk_assessment",
-      "orbital_event_detection",
-      "space_debris_modeling",
-      "python",
-      "java",
-      "r&d",
-      "scientific_innovation",
-      "complex_problem_solving",
-      "simulation",
-      "modeling"
-    ],
-    "posted": "2026-06-09T07:08:47.624Z"
-  },
-  {
-    "slug": "workday-jr345672",
+    "dedupeKey": "workday:JR345672",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Applied Research Engineer",
@@ -7748,7 +7672,7 @@
     "posted": "2026-06-09T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr214107",
+    "dedupeKey": "workday:JR214107",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Research Scientist - Salesforce AI Research",
@@ -7784,7 +7708,7 @@
     "posted": "2026-06-09T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2019582",
+    "dedupeKey": "workday:JR2019582",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Research Scientist, Rendering",
@@ -7810,7 +7734,7 @@
     "posted": "2026-06-09T00:00:00.000Z"
   },
   {
-    "slug": "greenhouse-6894747",
+    "dedupeKey": "greenhouse:6894747",
     "company": "Pinterest",
     "companyDomain": "pinterest.com",
     "role": "Sr. Machine Learning Engineer, Applied Science",
@@ -7838,7 +7762,7 @@
     "posted": "2026-06-08T19:37:02.000Z"
   },
   {
-    "slug": "lever-74978439-123f-4000-ae76-e70730c6cfa0",
+    "dedupeKey": "lever:74978439-123f-4000-ae76-e70730c6cfa0",
     "company": "Deep Genomics",
     "companyDomain": "deepgenomics.com",
     "role": "Senior Research Scientist, Machine Learning (BioFM)",
@@ -7862,7 +7786,7 @@
     "posted": "2026-06-08T15:09:58.761Z"
   },
   {
-    "slug": "lever-a6a5072f-ff4d-4f4a-941b-a9551861b8ed",
+    "dedupeKey": "lever:a6a5072f-ff4d-4f4a-941b-a9551861b8ed",
     "company": "Safran Aircraft Engines",
     "companyDomain": "safran-group.com",
     "role": "Deep Learning Scientist (H/F)",
@@ -7888,7 +7812,7 @@
     "posted": "2026-06-08T05:23:07.804Z"
   },
   {
-    "slug": "workday-jr2019517",
+    "dedupeKey": "workday:JR2019517",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Quantum Applied Research Scientist, Calibration and Decoding",
@@ -7931,7 +7855,7 @@
     "posted": "2026-06-08T00:00:00.000Z"
   },
   {
-    "slug": "workday-r169351",
+    "dedupeKey": "workday:R169351",
     "company": "Frame.io",
     "companyDomain": "frame.io",
     "role": "Machine Learning Engineer",
@@ -7971,7 +7895,7 @@
     "posted": "2026-06-08T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2019518",
+    "dedupeKey": "workday:JR2019518",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Quantum Applied Research Scientist, Physics Modeling",
@@ -7995,7 +7919,7 @@
     "posted": "2026-06-08T00:00:00.000Z"
   },
   {
-    "slug": "lever-ec4d81a6-d002-45f2-af2e-257fd35b2c04",
+    "dedupeKey": "lever:ec4d81a6-d002-45f2-af2e-257fd35b2c04",
     "company": "Atom Computing",
     "companyDomain": "atom-computing.com",
     "role": "Quantum Error Correction Theorist",
@@ -8016,7 +7940,7 @@
     "posted": "2026-06-07T14:46:42.943Z"
   },
   {
-    "slug": "workday-jr2019461",
+    "dedupeKey": "workday:JR2019461",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Research Manager, World Model Evaluation",
@@ -8046,5 +7970,69 @@
       "Python"
     ],
     "posted": "2026-06-07T00:00:00.000Z"
+  },
+  {
+    "dedupeKey": "greenhouse:8580719002",
+    "company": "Anaplan",
+    "companyDomain": "anaplan.com",
+    "role": "Principal Data Scientist - AI",
+    "applyUrl": "https://job-boards.greenhouse.io/anaplan/jobs/8580719002",
+    "location": "Pennsylvania-Remote, United States ",
+    "remote": "hybrid",
+    "level": "principal",
+    "skills": [
+      "llm_engineer",
+      "agent_engineer",
+      "transformer_architectures",
+      "prompt_engineering",
+      "conversational_ai",
+      "timeseries_forecasting",
+      "mlops",
+      "llmops",
+      "python",
+      "ci_cd",
+      "deep_learning",
+      "machine_learning",
+      "rlelf",
+      "lora",
+      "qlora",
+      "vector_databases",
+      "model_training",
+      "model_deployment",
+      "model_monitoring",
+      "cloud_platforms",
+      "aws",
+      "gcp",
+      "azure"
+    ],
+    "posted": "2026-06-06T14:34:54.000Z"
+  },
+  {
+    "dedupeKey": "greenhouse:8552567002",
+    "company": "Wayve",
+    "companyDomain": "wayve.ai",
+    "role": "Research Scientist, Wayve Labs",
+    "applyUrl": "https://wayve.firststage.co/jobs?gh_jid=8552567002",
+    "location": "Sunnyvale",
+    "remote": "hybrid",
+    "level": "senior",
+    "skills": [
+      "pytorch",
+      "python",
+      "reinforcement learning",
+      "foundation models",
+      "transformers",
+      "diffusion models",
+      "world modeling",
+      "spatial intelligence",
+      "multimodal learning",
+      "robotics",
+      "computer vision",
+      "sim-to-real transfer",
+      "large-scale training",
+      "autonomous driving",
+      "simulation"
+    ],
+    "posted": "2026-06-06T00:11:22.000Z"
   }
 ]
