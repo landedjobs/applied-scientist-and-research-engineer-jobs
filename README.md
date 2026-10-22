@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://go.landed.jobs/kydzo0l"><img src="https://static.b100x.ai/email/landed-wordmark.png" alt="landed" width="180"></a>
+<a href="https://go.landed.jobs/kydzo0l"><picture><source media="(prefers-color-scheme: dark)" srcset="https://static.b100x.ai/github-repos/images/brand/landed-wordmark-dark.png"><img src="https://static.b100x.ai/email/landed-wordmark.png" alt="landed" width="180"></picture></a>
 
 <img src="https://static.b100x.ai/github-repos/images/applied-scientist-and-research-engineer-jobs/banner.svg" alt="AI Research Scientist &amp; Research Engineer Jobs" width="100%">
 
