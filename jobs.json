@@ -170,46 +170,6 @@
     ]
   },
   {
-    "dedupeKey": "job:25cf7c88-61cf-4aca-b98f-6ce33e27dac7",
-    "companyId": "company_6268792d1010ee198befb473acab3907",
-    "company": "Salesforce",
-    "companyDomain": "salesforce.com",
-    "role": "Head of Technology and AI Innovation - Life Sciences",
-    "applyUrl": "https://go.landed.jobs/i4pd8uz",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "New York, NY",
-      "Washington, VA",
-      "Chicago, IL",
-      "San Francisco, CA",
-      "Georgia"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "ai_machine_learning",
-    "level": "director",
-    "skills": [
-      "AI-enabled delivery",
-      "Life Sciences",
-      "Professional Services",
-      "Customer Success",
-      "Product Management",
-      "Engineering",
-      "Global Delivery",
-      "AI innovation",
-      "delivery transformation",
-      "Agentforce",
-      "agentic technologies",
-      "automation platforms"
-    ],
-    "posted": "2026-10-23T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$151B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:8180d649-64de-4c21-913a-1a8d35dbf995",
     "companyId": "company_bea34bc9d29d0ab7935c486e89f3e7bf",
     "company": "Zillow",
@@ -9019,6 +8979,41 @@
     "companyBadges": [
       "TrueUp Remote 200",
       "$42.5B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:75df033e-f7b4-4071-a3af-7fa844efb036",
+    "companyId": "company_9a07434be71a9928b313a764639073c9",
+    "company": "Hewlett Packard Enterprise",
+    "companyDomain": "hpe.com",
+    "role": "Principal AI Research Scientist (HPE Labs)",
+    "applyUrl": "https://go.landed.jobs/w9u27yb",
+    "location": "Milpitas, CA +3",
+    "locations": [
+      "Milpitas, CA",
+      "Westford, MA",
+      "Spring, TX",
+      "Andover, MA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "principal",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "AI/ML packages, libraries, and research tooling",
+      "HPC and distributed systems",
+      "state-of-the-art AI/ML algorithms",
+      "Monte Carlo simulations",
+      "density functional theory (DFT)",
+      "molecular dynamics (MD)"
+    ],
+    "posted": "2026-08-16T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$74.2B valuation",
+      "Public"
     ]
   }
 ]
