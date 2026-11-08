@@ -1,5 +1,168 @@
 [
   {
+    "dedupeKey": "job:fe189d30-8335-463b-86a8-104450c4b448",
+    "companyId": "company_5f3ed25a8fbe17e0ec38fb3fc85bf8e5",
+    "company": "Waymo",
+    "companyDomain": "waymo.com",
+    "role": "2027 Summer Intern, PhD, Machine Learning - Generative World Models & Controllable Simulation",
+    "applyUrl": "https://go.landed.jobs/bjcjoiu",
+    "location": "Mountain View, CA",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "research_science",
+    "level": "intern",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "node",
+      "distributed training"
+    ],
+    "posted": "2026-11-06T20:59:41.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "$126B valuation",
+      "Series D"
+    ]
+  },
+  {
+    "dedupeKey": "job:37354665-2ec0-4034-9be5-6b78db28af9d",
+    "companyId": "company_5f3ed25a8fbe17e0ec38fb3fc85bf8e5",
+    "company": "Waymo",
+    "companyDomain": "waymo.com",
+    "role": "2027 Summer Intern, Machine Learning, MS/PhD, Simulation Realism (World Model)",
+    "applyUrl": "https://go.landed.jobs/bxvroyj",
+    "location": "Mountain View, CA",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "intern",
+    "skills": [
+      "computer vision",
+      "Python",
+      "PyTorch"
+    ],
+    "posted": "2026-11-06T20:50:56.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "$126B valuation",
+      "Series D"
+    ]
+  },
+  {
+    "dedupeKey": "job:4dcdec93-a296-4506-824c-2d7643b837fa",
+    "companyId": "company_9f62e15b04dbf6e6b51ff32857c48294",
+    "company": "Lila Sciences",
+    "companyDomain": "lila.ai",
+    "role": "Co-op, AI for Protein Design",
+    "applyUrl": "https://go.landed.jobs/kt9f122",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "research_science",
+    "level": "intern",
+    "skills": [
+      "Python",
+      "PyTorch"
+    ],
+    "posted": "2026-11-06T19:19:08.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$1.3B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:4e3d3259-87c4-419c-a3e2-643064c8e203",
+    "companyId": "company_d318762d9a7b1ecbb23619b165e3fabe",
+    "company": "Anthropic",
+    "companyDomain": "anthropic.com",
+    "role": "Research Engineer, Cybersecurity RL (Reinforcement Learning)",
+    "applyUrl": "https://go.landed.jobs/p5ppqzk",
+    "location": "San Francisco, CA · New York City, NY",
+    "locations": [
+      "San Francisco, CA",
+      "New York City, NY"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "research_science",
+    "level": "",
+    "skills": [
+      "machine learning",
+      "cybersecurity research",
+      "software engineering",
+      "security engineering",
+      "fuzzing",
+      "detection and response",
+      "CTF competitions",
+      "cyber ranges"
+    ],
+    "posted": "2026-11-06T08:10:22.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$965B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:37f2d2d9-b12b-422d-b7ce-83b02725f0fc",
+    "companyId": "company_1411e994b70efbb47875c9e3174a2954",
+    "company": "NVIDIA",
+    "companyDomain": "nvidia.com",
+    "role": "Research Scientist, AI and Systems Security - PhD New College Grad 2026",
+    "applyUrl": "https://go.landed.jobs/ltqe1q1",
+    "location": "Westford, MA · Santa Clara, CA",
+    "locations": [
+      "Westford, MA",
+      "Santa Clara, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "research_science",
+    "level": "entry",
+    "skills": [
+      "Python"
+    ],
+    "posted": "2026-11-06T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$4.9T valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:4cde95aa-5a68-43b1-adb2-61baa0742f4a",
+    "companyId": "company_d318762d9a7b1ecbb23619b165e3fabe",
+    "company": "Anthropic",
+    "companyDomain": "anthropic.com",
+    "role": "Applied Scientist, Engineering",
+    "applyUrl": "https://go.landed.jobs/pivplka",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "research_science",
+    "level": "senior",
+    "skills": [],
+    "posted": "2026-11-05T17:22:17.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$965B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:b999ece0-7a2b-4718-af39-ad3a1b736964",
     "companyId": "company_0dc5cac69e62ba3bb679143e559925f5",
     "company": "Generalist",
@@ -43,7 +206,7 @@
     "remote": "hybrid",
     "region": "us",
     "family": "ai_machine_learning",
-    "level": "",
+    "level": "senior",
     "skills": [
       "reinforcement learning",
       "self-supervised learning",
@@ -58,6 +221,42 @@
     "companyBadges": [
       "$28.2B valuation",
       "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:eb0a6d1c-9ef4-4f5e-951d-78a0e698c72c",
+    "companyId": "company_1411e994b70efbb47875c9e3174a2954",
+    "company": "NVIDIA",
+    "companyDomain": "nvidia.com",
+    "role": "Research and Engineering Intern, Agentic Systems Intelligence – Summer 2027",
+    "applyUrl": "https://go.landed.jobs/ffozzr1",
+    "location": "Santa Clara, CA +2",
+    "locations": [
+      "Santa Clara, CA",
+      "Austin, TX",
+      "Redmond, WA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "intern",
+    "skills": [
+      "Python",
+      "C/C++",
+      "Rust",
+      "GPU computing",
+      "reinforcement learning",
+      "agent systems",
+      "coding agents",
+      "TRT-LLM",
+      "SGLang",
+      "vLLM"
+    ],
+    "posted": "2026-11-05T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$4.9T valuation"
     ]
   },
   {
@@ -363,67 +562,6 @@
     "companyBadges": [
       "TrueUp Hot 200",
       "$13.8B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:068e6e9f-f4c2-4b9f-9292-7459ebe31102",
-    "companyId": "company_1411e994b70efbb47875c9e3174a2954",
-    "company": "NVIDIA",
-    "companyDomain": "nvidia.com",
-    "role": "Research Scientist, ML Systems - PhD New College Grad 2026",
-    "applyUrl": "https://go.landed.jobs/60h1v5s",
-    "location": "Santa Clara, CA +3",
-    "locations": [
-      "Santa Clara, CA",
-      "Westford, MA",
-      "Austin, TX",
-      "Seattle, WA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "research_science",
-    "level": "entry",
-    "skills": [
-      "C",
-      "C++",
-      "Python",
-      "scripting languages",
-      "AI tools"
-    ],
-    "posted": "2026-10-30T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$4.9T valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:3993c7f3-7bef-4b51-bdba-23315665d7db",
-    "companyId": "company_1411e994b70efbb47875c9e3174a2954",
-    "company": "NVIDIA",
-    "companyDomain": "nvidia.com",
-    "role": "Senior Quantum AI Research Scientist, Applied Research",
-    "applyUrl": "https://go.landed.jobs/ku9pben",
-    "location": "Redmond, WA · Santa Clara, CA",
-    "locations": [
-      "Redmond, WA",
-      "Santa Clara, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "research_science",
-    "level": "senior",
-    "skills": [
-      "quantum error correction, decoding, calibration",
-      "developing learned decoders or AI-driven calibration systems for quantum hardware",
-      "large-scale model training and fine-tuning",
-      "parameter-efficient fine-tuning (LoRA, QLoRA, adapters)"
-    ],
-    "posted": "2026-10-30T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$4.9T valuation"
     ]
   },
   {
@@ -1138,6 +1276,41 @@
     ]
   },
   {
+    "dedupeKey": "job:b4e9bf14-2102-41aa-9143-b4e29635cc63",
+    "companyId": "company_360220ea93a91c899b62cb937583292e",
+    "company": "Scale AI",
+    "companyDomain": "scale.com",
+    "role": "AI Safety Residency - SLPreP",
+    "applyUrl": "https://go.landed.jobs/bkirwoz",
+    "location": "🌐 Remote (Canada, UK, US)",
+    "locations": [
+      "Canada",
+      "UK",
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "research_science",
+    "level": "",
+    "skills": [
+      "controlled experiments",
+      "evaluation harnesses",
+      "agent environments",
+      "datasets",
+      "monitoring methods",
+      "post-training experiments",
+      "reproducible code",
+      "experiment logs",
+      "technical writing"
+    ],
+    "posted": "2026-10-16T18:44:43.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "YC S16",
+      "$29B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:b85804a0-91df-41d0-ae63-e7a1f1d75836",
     "companyId": "company_9f62e15b04dbf6e6b51ff32857c48294",
     "company": "Lila Sciences",
@@ -1435,82 +1608,12 @@
     ]
   },
   {
-    "dedupeKey": "job:0dff23ce-121d-422c-be61-2df487b7fcc2",
-    "companyId": "company_5f3ed25a8fbe17e0ec38fb3fc85bf8e5",
-    "company": "Waymo",
-    "companyDomain": "waymo.com",
-    "role": "2027 Summer Intern, PhD, Research, World Modeling Evaluation",
-    "applyUrl": "https://go.landed.jobs/460gqvq",
-    "location": "Mountain View, CA",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "research_science",
-    "level": "intern",
-    "skills": [
-      "computer vision",
-      "machine learning",
-      "Python",
-      "generative models",
-      "large language models",
-      "deep neural networks",
-      "PyTorch",
-      "Jax",
-      "Tensorflow"
-    ],
-    "posted": "2026-10-08T19:53:38.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "$126B valuation",
-      "Series D"
-    ]
-  },
-  {
-    "dedupeKey": "job:0f56dc9b-7946-4637-873d-7bf97ed78166",
-    "companyId": "company_fb02517967402f251f0285f3caf0a414",
-    "company": "Luma",
-    "companyDomain": "lumalabs.ai",
-    "role": "Research Scientist / Engineer – Training Infrastructure",
-    "applyUrl": "https://go.landed.jobs/cbs2cd9",
-    "location": "Redwood City, CA +5",
-    "locations": [
-      "Redwood City, CA",
-      "US",
-      "New York City, NY",
-      "Seattle, WA",
-      "London, UK",
-      "UK"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "research_science",
-    "level": "staff",
-    "skills": [
-      "PyTorch",
-      "CUDA",
-      "distributed-systems",
-      "FSDP",
-      "multi-node training",
-      "containerization",
-      "orchestration",
-      "cloud infrastructure"
-    ],
-    "posted": "2026-10-08T14:40:33.146Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$4B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:8402a498-ad4a-4eb4-926c-c3b454553cb1",
-    "companyId": "company_2688e000e0491926ab2750639c7aebf9",
-    "company": "Datadog",
-    "companyDomain": "datadoghq.com",
-    "role": "Staff Research Scientist - Post-Training for Agents",
-    "applyUrl": "https://go.landed.jobs/n3gjvd1",
+    "dedupeKey": "job:087a25ec-6089-4ae2-b4f4-64924a1de967",
+    "companyId": "company_a846c8062a35aa46af3453146f069619",
+    "company": "Duolingo",
+    "companyDomain": "duolingo.com",
+    "role": "AI Research Intern (PhD)",
+    "applyUrl": "https://go.landed.jobs/bx67gbg",
     "location": "New York City, NY · Pittsburgh, PA",
     "locations": [
       "New York City, NY",
@@ -1519,77 +1622,129 @@
     "remote": "",
     "region": "us",
     "family": "research_science",
-    "level": "staff",
+    "level": "intern",
     "skills": [
-      "reinforcement learning systems",
-      "agent training methods",
-      "simulated environments",
-      "synthetic data pipelines",
-      "evaluation frameworks"
+      "Python",
+      "Java",
+      "C++",
+      "Scala"
     ],
-    "posted": "2026-10-07T16:34:22.000Z",
-    "companyTier": "A",
+    "posted": "2026-11-06T18:45:51.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp SaaS 50",
-      "$95.4B valuation"
+      "$6.3B valuation",
+      "Public"
     ]
   },
   {
-    "dedupeKey": "job:ba4b2b4e-73c1-4ac0-b8df-3cac4f14abd2",
-    "companyId": "company_2688e000e0491926ab2750639c7aebf9",
-    "company": "Datadog",
-    "companyDomain": "datadoghq.com",
-    "role": "Staff Research Scientist - Foundation & World Models",
-    "applyUrl": "https://go.landed.jobs/qbrn0io",
-    "location": "New York City, NY · Pittsburgh, PA",
+    "dedupeKey": "job:d3576e77-8782-425a-b51f-1e6325cd5c15",
+    "companyId": "company_7179c7d5d3b27af7565b05dc11f577ac",
+    "company": "AbbVie",
+    "companyDomain": "abbvie.com",
+    "role": "Principal Scientist II, AI-Guided Antibody Drug Conjugate Design",
+    "applyUrl": "https://go.landed.jobs/g9x7jay",
+    "location": "Worcester, MA",
     "locations": [
-      "New York City, NY",
-      "Pittsburgh, PA"
+      "Worcester, MA"
     ],
     "remote": "",
     "region": "us",
     "family": "research_science",
-    "level": "staff",
-    "skills": [
-      "large-scale deep learning models",
-      "large language models"
-    ],
-    "posted": "2026-10-07T16:34:19.000Z",
-    "companyTier": "A",
+    "level": "principal",
+    "skills": [],
+    "posted": "2026-11-06T15:12:38.528Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp SaaS 50",
-      "$95.4B valuation"
+      "Public"
     ]
   },
   {
-    "dedupeKey": "job:89f8626a-b295-44d3-970c-ab10bf8826c1",
-    "companyId": "company_5f3ed25a8fbe17e0ec38fb3fc85bf8e5",
-    "company": "Waymo",
-    "companyDomain": "waymo.com",
-    "role": "2027 Summer Intern, MS/PhD, Research, Perception Foundation Models",
-    "applyUrl": "https://go.landed.jobs/ukw20cf",
-    "location": "Mountain View, CA",
+    "dedupeKey": "job:57821b89-dbca-4a14-8d93-406fbbde0e68",
+    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
+    "company": "Booz Allen Hamilton",
+    "companyDomain": "boozallen.com",
+    "role": "Statistician & Mathematician",
+    "applyUrl": "https://go.landed.jobs/6e29k9d",
+    "location": "Washington, D.C., DC · McLean, VA",
     "locations": [
-      "Mountain View, CA"
+      "Washington, D.C., DC",
+      "McLean, VA"
     ],
     "remote": "hybrid",
     "region": "us",
     "family": "research_science",
-    "level": "intern",
+    "level": "senior",
     "skills": [
-      "deep learning models",
       "Python",
-      "PyTorch",
-      "JAX",
-      "TensorFlow",
-      "open-set perception models (e.g. SAM)",
-      "open-source foundation models"
+      "SQL",
+      "containerization"
     ],
-    "posted": "2026-10-07T04:37:15.000Z",
-    "companyTier": "A",
+    "posted": "2026-11-06T00:00:00.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "$126B valuation",
-      "Series D"
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:6f539373-f559-43b8-8795-7e59b1583dbc",
+    "companyId": "company_d0f12616c140b9ab5b1f640d7ad48d2c",
+    "company": "Capital One",
+    "companyDomain": "capitalone.com",
+    "role": "Applied Researcher 5 (AI Foundations: Evaluation and Agentic Workflows)",
+    "applyUrl": "https://go.landed.jobs/7zgmzhd",
+    "location": "McLean, VA +3",
+    "locations": [
+      "McLean, VA",
+      "Cambridge, MA",
+      "San Jose, CA",
+      "New York City, NY"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "research_science",
+    "level": "mid",
+    "skills": [
+      "Agentic Workflows",
+      "RLHF"
+    ],
+    "posted": "2026-11-06T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:eb14aac9-8116-443b-bb07-0672cb0484d2",
+    "companyId": "company_d0f12616c140b9ab5b1f640d7ad48d2c",
+    "company": "Capital One",
+    "companyDomain": "capitalone.com",
+    "role": "AI Engineer 4 (AI Foundations: World Model, RL, Causal Inference, Sequential Data)",
+    "applyUrl": "https://go.landed.jobs/w0ny8su",
+    "location": "McLean, VA +3",
+    "locations": [
+      "McLean, VA",
+      "Cambridge, MA",
+      "San Jose, CA",
+      "New York City, NY"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "senior",
+    "skills": [
+      "Python",
+      "Java",
+      "Go",
+      "Scala",
+      "AWS",
+      "Google Cloud",
+      "Azure",
+      "agentic workflows"
+    ],
+    "posted": "2026-11-06T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
     ]
   },
   {
@@ -2051,45 +2206,6 @@
     "companyBadges": [
       "$3B valuation",
       "Late stage"
-    ]
-  },
-  {
-    "dedupeKey": "job:c7a16eab-6a7a-41bc-ad99-7261b6521e97",
-    "companyId": "company_d0f12616c140b9ab5b1f640d7ad48d2c",
-    "company": "Capital One",
-    "companyDomain": "capitalone.com",
-    "role": "Applied Researcher 5",
-    "applyUrl": "https://go.landed.jobs/uo7z0q0",
-    "location": "McLean, VA +4",
-    "locations": [
-      "McLean, VA",
-      "San Francisco, CA",
-      "Cambridge, MA",
-      "San Jose, CA",
-      "New York City, NY"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "mid",
-    "skills": [
-      "machine learning",
-      "open-source languages",
-      "cloud computing platforms",
-      "deep learning models",
-      "training optimization",
-      "self-supervised learning",
-      "RLHF",
-      "Model Sparsification",
-      "Quantization",
-      "Training Parallelism/Partitioning Design",
-      "Gradient Checkpointing",
-      "Model Compression"
-    ],
-    "posted": "2026-10-27T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
     ]
   },
   {
@@ -2672,45 +2788,6 @@
     ]
   },
   {
-    "dedupeKey": "job:37d494ac-b1ca-461b-881a-28de773f4ba6",
-    "companyId": "company_d0f12616c140b9ab5b1f640d7ad48d2c",
-    "company": "Capital One",
-    "companyDomain": "capitalone.com",
-    "role": "Sr. Director, Applied Researcher",
-    "applyUrl": "https://go.landed.jobs/2liybow",
-    "location": "McLean, VA +4",
-    "locations": [
-      "McLean, VA",
-      "San Francisco, CA",
-      "Cambridge, MA",
-      "San Jose, CA",
-      "New York City, NY"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "director",
-    "skills": [
-      "machine learning",
-      "AI",
-      "open-source languages",
-      "cloud computing platforms",
-      "deep learning models",
-      "training optimization",
-      "self-supervised learning",
-      "robustness",
-      "explainability",
-      "RL",
-      "LLM",
-      "NLP"
-    ],
-    "posted": "2026-10-14T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:5aed3142-e98e-4d66-9dcd-a0c6d85ec0e4",
     "companyId": "company_7f10f78b0e70b7d8a5bef7944e100fa4",
     "company": "Fractal Analytics",
@@ -2862,101 +2939,235 @@
     ]
   },
   {
-    "dedupeKey": "job:7a25c494-987e-4bc2-8ce2-0c76b7d9dfdb",
-    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
-    "company": "Booz Allen Hamilton",
-    "companyDomain": "boozallen.com",
-    "role": "Quantum Scientist and Error Correction Specialist",
-    "applyUrl": "https://go.landed.jobs/560964r",
-    "location": "Washington, D.C., DC",
+    "dedupeKey": "job:713216ab-386b-42d4-8614-2cb0ca3ffa4e",
+    "companyId": "company_521e263ce8a1d78e57fc869b303b174a",
+    "company": "xAI",
+    "companyDomain": "x.ai",
+    "role": "Sr. Model Engineer, Imagine",
+    "applyUrl": "https://go.landed.jobs/dyx8o19",
+    "location": "Palo Alto, CA",
     "locations": [
-      "Washington, D.C., DC"
+      "Palo Alto, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "senior",
+    "skills": [
+      "Python",
+      "Rust",
+      "C++",
+      "PyTorch",
+      "agentic systems"
+    ],
+    "posted": "2026-11-07T01:16:00.000Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series E"
+    ]
+  },
+  {
+    "dedupeKey": "job:2dc13af0-8c18-486b-b9ca-e85d26ad8b26",
+    "companyId": "company_70f055084770bb1abfc2901bd79b56eb",
+    "company": "Radical Numerics",
+    "companyDomain": "radicalnumerics.ai",
+    "role": "Member of Technical Staff: Statistical Genetics",
+    "applyUrl": "https://go.landed.jobs/mjg3xfn",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "research_science",
+    "level": "staff",
+    "skills": [
+      "Python",
+      "causal inference"
+    ],
+    "posted": "2026-11-07T01:13:37.883Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Seed"
+    ]
+  },
+  {
+    "dedupeKey": "job:dee94e03-ab76-46e7-84a6-e12ee2e87d52",
+    "companyId": "company_a32bf434ef3cabfc77c522d03096d3a9",
+    "company": "Bosch",
+    "companyDomain": "bosch.com",
+    "role": "Research Scientist- Robotics AI",
+    "applyUrl": "https://go.landed.jobs/8cilija",
+    "location": "Sunnyvale, CA",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "research_science",
+    "level": "senior",
+    "skills": [
+      "Computer Vision"
+    ],
+    "posted": "2026-11-06T23:10:43.929Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:f8f3cc0d-6046-4ee0-bfe3-1593e4c55f9c",
+    "companyId": "company_a32bf434ef3cabfc77c522d03096d3a9",
+    "company": "Bosch",
+    "companyDomain": "bosch.com",
+    "role": "Senior Research Scientist- Robotics AI",
+    "applyUrl": "https://go.landed.jobs/embczv5",
+    "location": "Sunnyvale, CA",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "research_science",
+    "level": "senior",
+    "skills": [
+      "Computer Vision"
+    ],
+    "posted": "2026-11-06T22:54:41.804Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:3a0adacf-daab-4e00-ae57-a8de8ad217df",
+    "companyId": "company_9be841d8c527f676509f2e2a19e12c81",
+    "company": "Gauntlet",
+    "companyDomain": "gauntlet.network",
+    "role": "Research Engineer",
+    "applyUrl": "https://go.landed.jobs/7due4n3",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "New York City, NY",
+      "San Francisco, CA",
+      "Los Angeles, CA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "ai_machine_learning",
+    "level": "",
+    "skills": [
+      "AI agents",
+      "LLM",
+      "Python",
+      "LLM evaluation",
+      "fine-tuning"
+    ],
+    "posted": "2026-11-06T17:53:49.696Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series C"
+    ]
+  },
+  {
+    "dedupeKey": "job:af8c162a-60d1-4715-9218-dd2bf46e55fb",
+    "companyId": "company_82f71a3a9e726478d18ee122770d451e",
+    "company": "Revolution Medicines",
+    "companyDomain": "revmed.com",
+    "role": "Machine Learning Scientist II, Drug Discovery Analytics",
+    "applyUrl": "https://go.landed.jobs/5ti1t5x",
+    "location": "Redwood City, CA",
+    "locations": [
+      "Redwood City, CA"
     ],
     "remote": "hybrid",
     "region": "us",
     "family": "research_science",
     "level": "mid",
     "skills": [
-      "quantum fault-tolerance theory",
-      "decoders",
-      "stabilizer formalism",
       "Python",
-      "Julia",
-      "QEC frameworks",
-      "tensor-network libraries",
-      "noise modeling",
-      "qLDPC codes",
-      "reconfigurable qubit architectures",
-      "quantum networking",
-      "quantum characterization, verification, and validation (QCVV) techniques"
+      "computer vision",
+      "model deployment"
     ],
-    "posted": "2026-10-09T00:00:00.000Z",
-    "companyTier": "B",
+    "posted": "2026-11-06T17:42:36.000Z",
+    "companyTier": "C",
     "companyBadges": [
       "Public"
     ]
   },
   {
-    "dedupeKey": "job:9c448a85-1650-4caa-a62f-b78ba1849590",
-    "companyId": "company_548fff8316ff3b8a015354bf692b1657",
-    "company": "3M",
-    "companyDomain": "3m.com",
-    "role": "Research Engineer",
-    "applyUrl": "https://go.landed.jobs/ug9qso9",
-    "location": "Woodbury, MN",
+    "dedupeKey": "job:250c6a4e-e392-4c43-a498-e600bdd89f41",
+    "companyId": "company_a32bf434ef3cabfc77c522d03096d3a9",
+    "company": "Bosch",
+    "companyDomain": "bosch.com",
+    "role": "Vision‑Language‑Action (VLA) Research Intern",
+    "applyUrl": "https://go.landed.jobs/xiqsufv",
+    "location": "Sunnyvale, CA",
     "locations": [
-      "Woodbury, MN"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "research_science",
-    "level": "",
-    "skills": [
-      "running experiments",
-      "scientific method",
-      "AutoCad",
-      "Solidworks"
-    ],
-    "posted": "2026-10-08T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:31da2097-6759-4d33-81cf-673fe3729de7",
-    "companyId": "company_7a0fbd7147b16205f4414ad6cc03e5b3",
-    "company": "Sigma",
-    "companyDomain": "sigmacomputing.com",
-    "role": "AI/ML PhD Intern (Summer 2027)",
-    "applyUrl": "https://go.landed.jobs/2h3bjjn",
-    "location": "New York City, NY · San Francisco, CA",
-    "locations": [
-      "New York City, NY",
-      "San Francisco, CA"
+      "Sunnyvale, CA"
     ],
     "remote": "",
     "region": "us",
     "family": "ai_machine_learning",
     "level": "intern",
     "skills": [
-      "machine learning",
-      "deep learning algorithms",
-      "model architectures",
-      "optimization",
-      "building and deploying production-grade AI/ML systems",
-      "data curation",
-      "deployment",
-      "monitoring",
-      "natural language processing",
-      "agentic workflows",
-      "cloud infrastructure (AWS, GCP, Azure)"
+      "generative models (diffusion, autoregressive transformers, VAEs)",
+      "deep learning frameworks",
+      "reinforcement learning",
+      "large-scale distributed training",
+      "multi-modal / video data pipelines"
     ],
-    "posted": "2026-10-07T01:58:00.000Z",
-    "companyTier": "B",
+    "posted": "2026-11-06T14:13:22.983Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:c16593ac-d58f-4bfd-9071-515df20b45f0",
+    "companyId": "company_0f5f812fd11d7dc66a9ad8b3a1118832",
+    "company": "Miratech",
+    "companyDomain": "miratechgroup.com",
+    "role": "Senior Operations Research Engineer",
+    "applyUrl": "https://go.landed.jobs/yi9k054",
+    "location": "🌐 Remote (Canada)",
+    "locations": [
+      "Toronto, Canada"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "research_science",
+    "level": "senior",
+    "skills": [
+      "OR-Tools/CP-SAT",
+      "AWS",
+      "GCP",
+      "Azure",
+      "Claude",
+      "GitHub Copilot"
+    ],
+    "posted": "2026-11-06T09:46:32.241Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:40634d64-b7f4-4974-b50b-9f2fdf1bb47b",
+    "companyId": "company_5fd7336b68deb0018aec92865b0dcd8b",
+    "company": "LatchBio",
+    "companyDomain": "latch.bio",
+    "role": "AI Biologist - Rare and Progressive Disease",
+    "applyUrl": "https://go.landed.jobs/natc06c",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "research_science",
+    "level": "mid",
+    "skills": [
+      "Python",
+      "R",
+      "agentic coding systems"
+    ],
+    "posted": "2026-11-05T21:30:14.347Z",
+    "companyTier": "C",
     "companyBadges": [
-      "$3B valuation",
-      "Series D"
+      "Series A"
     ]
   },
   {
@@ -3017,6 +3228,39 @@
     ]
   },
   {
+    "dedupeKey": "job:379e49e9-3788-4604-85ea-a7422cd34e36",
+    "companyId": "company_6534ca3597bbc3418fd4063705617a40",
+    "company": "Toyota Research Institute",
+    "companyDomain": "tri.global",
+    "role": "Research Scientist, Robot Learning",
+    "applyUrl": "https://go.landed.jobs/npap4di",
+    "location": "Cambridge, MA",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "research_science",
+    "level": "senior",
+    "skills": [
+      "robot learning models",
+      "reinforcement learning",
+      "imitation learning",
+      "Python",
+      "C++/Python codebases",
+      "PyTorch",
+      "TensorFlow",
+      "generative models",
+      "diffusion policy",
+      "flow matching",
+      "world models",
+      "ROS 2"
+    ],
+    "posted": "2026-11-05T19:05:21.766Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
     "dedupeKey": "job:d6a48e20-8ab7-4a32-86ad-43e2fbc5aae9",
     "companyId": "company_059718e250bb0c64f5a50e5544b65799",
     "company": "Profluent",
@@ -3030,7 +3274,7 @@
     "remote": "",
     "region": "us",
     "family": "ai_machine_learning",
-    "level": "",
+    "level": "senior",
     "skills": [
       "biomolecular structure prediction models (e.g., AlphaFold- or Protenix-style co-folding models)",
       "deep learning frameworks such as PyTorch or JAX",
@@ -3346,38 +3590,6 @@
     "companyBadges": []
   },
   {
-    "dedupeKey": "job:87089fd5-f517-4a89-8316-76347c33ff85",
-    "companyId": "company_5fd7336b68deb0018aec92865b0dcd8b",
-    "company": "LatchBio",
-    "companyDomain": "latch.bio",
-    "role": "AI Neuroscientist",
-    "applyUrl": "https://go.landed.jobs/31cudst",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "research_science",
-    "level": "",
-    "skills": [
-      "electrophysiology (patch-clamp, MEA, Neuropixels)",
-      "optical imaging",
-      "EEG/sEEG",
-      "neuroimaging",
-      "single-cell or spatial omics",
-      "neuropathology",
-      "quantitative behavior",
-      "experimental design and statistics",
-      "AI agent use"
-    ],
-    "posted": "2026-11-02T08:36:05.112Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Series A"
-    ]
-  },
-  {
     "dedupeKey": "job:5fe5378d-e301-431c-be40-3aa063ba76cb",
     "companyId": "company_acea1bae320444ad196f98288316a415",
     "company": "Windfall Bio",
@@ -3559,39 +3771,6 @@
     "level": "mid",
     "skills": [],
     "posted": "2026-10-29T00:00:00.000Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:b72d035a-c1a4-4c95-a82e-4c35e510f85d",
-    "companyId": "company_a32bf434ef3cabfc77c522d03096d3a9",
-    "company": "Bosch",
-    "companyDomain": "bosch.com",
-    "role": "Research Scientist- Robotics AI",
-    "applyUrl": "https://go.landed.jobs/rtjkqxt",
-    "location": "Sunnyvale, CA",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "research_science",
-    "level": "mid",
-    "skills": [
-      "reinforcement learning",
-      "PPO",
-      "DQN",
-      "DDPG",
-      "multimodal transformer-based sequence-to-sequence models",
-      "multimodal vision-language-action models",
-      "computer vision",
-      "deep learning",
-      "multimodal transformers",
-      "diffusion models",
-      "object detection / segmentation",
-      "3D scene understanding"
-    ],
-    "posted": "2026-10-28T00:08:33.277Z",
     "companyTier": "U",
     "companyBadges": []
   },
@@ -5116,6 +5295,41 @@
     "companyBadges": []
   },
   {
+    "dedupeKey": "job:7a25c494-987e-4bc2-8ce2-0c76b7d9dfdb",
+    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
+    "company": "Booz Allen Hamilton",
+    "companyDomain": "boozallen.com",
+    "role": "Quantum Scientist and Error Correction Specialist",
+    "applyUrl": "https://go.landed.jobs/560964r",
+    "location": "Washington, D.C., DC",
+    "locations": [
+      "Washington, D.C., DC"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "research_science",
+    "level": "mid",
+    "skills": [
+      "quantum fault-tolerance theory",
+      "decoders",
+      "stabilizer formalism",
+      "Python",
+      "Julia",
+      "QEC frameworks",
+      "tensor-network libraries",
+      "noise modeling",
+      "qLDPC codes",
+      "reconfigurable qubit architectures",
+      "quantum networking",
+      "quantum characterization, verification, and validation (QCVV) techniques"
+    ],
+    "posted": "2026-10-09T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
     "dedupeKey": "job:7b115f54-ea25-430c-aafe-e068342253c8",
     "companyId": "company_15d3208ee351c0b23d983cb242b2caf3",
     "company": "Human Computer Lab",
@@ -5167,6 +5381,70 @@
     "companyBadges": []
   },
   {
+    "dedupeKey": "job:0f56dc9b-7946-4637-873d-7bf97ed78166",
+    "companyId": "company_fb02517967402f251f0285f3caf0a414",
+    "company": "Luma",
+    "companyDomain": "lumalabs.ai",
+    "role": "Research Scientist / Engineer – Training Infrastructure",
+    "applyUrl": "https://go.landed.jobs/cbs2cd9",
+    "location": "Redwood City, CA +5",
+    "locations": [
+      "Redwood City, CA",
+      "US",
+      "New York City, NY",
+      "Seattle, WA",
+      "London, UK",
+      "UK"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "research_science",
+    "level": "staff",
+    "skills": [
+      "PyTorch",
+      "CUDA",
+      "distributed-systems",
+      "FSDP",
+      "multi-node training",
+      "containerization",
+      "orchestration",
+      "cloud infrastructure"
+    ],
+    "posted": "2026-10-08T14:40:33.146Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$4B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:9c448a85-1650-4caa-a62f-b78ba1849590",
+    "companyId": "company_548fff8316ff3b8a015354bf692b1657",
+    "company": "3M",
+    "companyDomain": "3m.com",
+    "role": "Research Engineer",
+    "applyUrl": "https://go.landed.jobs/ug9qso9",
+    "location": "Woodbury, MN",
+    "locations": [
+      "Woodbury, MN"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "research_science",
+    "level": "",
+    "skills": [
+      "running experiments",
+      "scientific method",
+      "AutoCad",
+      "Solidworks"
+    ],
+    "posted": "2026-10-08T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
     "dedupeKey": "job:60f53cfd-7496-41c2-b088-5a5c01997702",
     "companyId": "company_fcc5fbd15066cca272832fe066aee72b",
     "company": "FAR.AI",
@@ -5188,6 +5466,63 @@
     "posted": "2026-10-07T18:54:38.155Z",
     "companyTier": "U",
     "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:8402a498-ad4a-4eb4-926c-c3b454553cb1",
+    "companyId": "company_2688e000e0491926ab2750639c7aebf9",
+    "company": "Datadog",
+    "companyDomain": "datadoghq.com",
+    "role": "Staff Research Scientist - Post-Training for Agents",
+    "applyUrl": "https://go.landed.jobs/n3gjvd1",
+    "location": "New York City, NY · Pittsburgh, PA",
+    "locations": [
+      "New York City, NY",
+      "Pittsburgh, PA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "research_science",
+    "level": "staff",
+    "skills": [
+      "reinforcement learning systems",
+      "agent training methods",
+      "simulated environments",
+      "synthetic data pipelines",
+      "evaluation frameworks"
+    ],
+    "posted": "2026-10-07T16:34:22.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp SaaS 50",
+      "$95.4B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:ba4b2b4e-73c1-4ac0-b8df-3cac4f14abd2",
+    "companyId": "company_2688e000e0491926ab2750639c7aebf9",
+    "company": "Datadog",
+    "companyDomain": "datadoghq.com",
+    "role": "Staff Research Scientist - Foundation & World Models",
+    "applyUrl": "https://go.landed.jobs/qbrn0io",
+    "location": "New York City, NY · Pittsburgh, PA",
+    "locations": [
+      "New York City, NY",
+      "Pittsburgh, PA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "research_science",
+    "level": "staff",
+    "skills": [
+      "large-scale deep learning models",
+      "large language models"
+    ],
+    "posted": "2026-10-07T16:34:19.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp SaaS 50",
+      "$95.4B valuation"
+    ]
   },
   {
     "dedupeKey": "job:28c7d97e-4015-44ae-970b-194bcf199a7b",
@@ -5213,6 +5548,42 @@
     "companyTier": "C",
     "companyBadges": [
       "Seed"
+    ]
+  },
+  {
+    "dedupeKey": "job:31da2097-6759-4d33-81cf-673fe3729de7",
+    "companyId": "company_7a0fbd7147b16205f4414ad6cc03e5b3",
+    "company": "Sigma",
+    "companyDomain": "sigmacomputing.com",
+    "role": "AI/ML PhD Intern (Summer 2027)",
+    "applyUrl": "https://go.landed.jobs/2h3bjjn",
+    "location": "New York City, NY · San Francisco, CA",
+    "locations": [
+      "New York City, NY",
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "intern",
+    "skills": [
+      "machine learning",
+      "deep learning algorithms",
+      "model architectures",
+      "optimization",
+      "building and deploying production-grade AI/ML systems",
+      "data curation",
+      "deployment",
+      "monitoring",
+      "natural language processing",
+      "agentic workflows",
+      "cloud infrastructure (AWS, GCP, Azure)"
+    ],
+    "posted": "2026-10-07T01:58:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$3B valuation",
+      "Series D"
     ]
   },
   {
@@ -5271,6 +5642,33 @@
       "$17.4B valuation",
       "Public"
     ]
+  },
+  {
+    "dedupeKey": "job:f381b6d7-bdf5-42be-9224-ba2e08338288",
+    "companyId": "company_8c5406e9233fe9168b38be1e956293e0",
+    "company": "Dandy",
+    "companyDomain": "meetdandy.com",
+    "role": "Summer 2027 Internship - PhD Research Intern",
+    "applyUrl": "https://go.landed.jobs/kz6700s",
+    "location": "New York City, NY",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "intern",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "TensorFlow",
+      "machine learning",
+      "deep learning",
+      "applied AI"
+    ],
+    "posted": "2026-10-06T23:48:37.110Z",
+    "companyTier": "U",
+    "companyBadges": []
   },
   {
     "dedupeKey": "job:49e4e4eb-aab0-4761-9123-03352d115f8d",
@@ -5347,65 +5745,6 @@
     "companyBadges": []
   },
   {
-    "dedupeKey": "job:15621e1f-c2d0-4aa8-8a28-6df0690cc71e",
-    "companyId": "company_ab6dbf28b31577a984afd46b4edc3065",
-    "company": "Qualcomm",
-    "companyDomain": "qualcomm.com",
-    "role": "Senior AI Researcher, On-Device LLM Efficiency",
-    "applyUrl": "https://go.landed.jobs/m9q67jj",
-    "location": "San Diego, CA",
-    "locations": [
-      "San Diego, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "machine learning models, systems, platforms, or methods",
-      "deep learning and Transformers",
-      "Python and PyTorch",
-      "LLM reasoning or inference acceleration research",
-      "LLM efficiency research such as efficient attention, inference acceleration, or KV cache compression",
-      "on-device AI deployment on mobile or edge devices"
-    ],
-    "posted": "2026-10-06T12:33:44.902Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$155B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:a0ced849-d157-4db8-8121-b65c0f4a710e",
-    "companyId": "company_88b6bc5d7b674ba8cb0e916be68e7639",
-    "company": "P-1 AI",
-    "companyDomain": "p-1.ai",
-    "role": "Member of Technical Staff, AI Evaluation",
-    "applyUrl": "https://go.landed.jobs/1n7bg2s",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "AI evaluations",
-      "automated judges",
-      "human evaluation processes",
-      "SFT",
-      "RLVR",
-      "semi-synthetic training data"
-    ],
-    "posted": "2026-10-06T02:18:32.778Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Seed"
-    ]
-  },
-  {
     "dedupeKey": "job:96dde525-4f8b-4be5-aee1-3fcea6cfb0b0",
     "companyId": "company_a9fd1741f59619063e6bb71ac32a20b9",
     "company": "AllianceBernstein",
@@ -5464,41 +5803,6 @@
     "companyTier": "B",
     "companyBadges": [
       "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:a39d4228-00bd-4f28-a263-1a543f47c9d1",
-    "companyId": "company_9f62e15b04dbf6e6b51ff32857c48294",
-    "company": "Lila Sciences",
-    "companyDomain": "lila.ai",
-    "role": "Senior / Principal Chemist, AI Safety",
-    "applyUrl": "https://go.landed.jobs/vi6su7t",
-    "location": "Cambridge, MA +2",
-    "locations": [
-      "Cambridge, MA",
-      "London, UK",
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "research_science",
-    "level": "senior",
-    "skills": [
-      "synthetic chemistry",
-      "molecular design",
-      "medicinal chemistry",
-      "inorganic and organometallic chemistry",
-      "dual-use risk assessment",
-      "chemical dual-use risks",
-      "AI safety",
-      "automated chemistry",
-      "scientific modeling"
-    ],
-    "posted": "2026-10-05T17:34:42.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$1.3B valuation"
     ]
   },
   {
@@ -6104,72 +6408,6 @@
     ]
   },
   {
-    "dedupeKey": "job:1a034850-e9c0-434a-880d-fc2fd2db67df",
-    "companyId": "company_a32bf434ef3cabfc77c522d03096d3a9",
-    "company": "Bosch",
-    "companyDomain": "bosch.com",
-    "role": "Senior Research Scientist- Robotics AI",
-    "applyUrl": "https://go.landed.jobs/i53eoet",
-    "location": "Sunnyvale, CA",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "research_science",
-    "level": "senior",
-    "skills": [
-      "reinforcement learning",
-      "Computer Vision",
-      "deep learning",
-      "multimodal transformer-based sequence-to-sequence models",
-      "multimodal vision-language-action models",
-      "diffusion models",
-      "NeRF",
-      "gaussian splatting",
-      "object detection / segmentation",
-      "3D scene understanding",
-      "sensor calibration",
-      "SfM"
-    ],
-    "posted": "2026-09-29T04:00:03.997Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:348c82c9-21cb-41d7-a993-b504583ffe3a",
-    "companyId": "company_a32bf434ef3cabfc77c522d03096d3a9",
-    "company": "Bosch",
-    "companyDomain": "bosch.com",
-    "role": "Research Scientist- Vision-Language-Action (VLA) Models",
-    "applyUrl": "https://go.landed.jobs/7ib312r",
-    "location": "Sunnyvale, CA",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "research_science",
-    "level": "mid",
-    "skills": [
-      "reinforcement learning for behavior or motion planning",
-      "multimodal transformer-based sequence-to-sequence models",
-      "computer vision and deep learning",
-      "multimodal transformers",
-      "multimodal language models",
-      "diffusion models",
-      "NeRF",
-      "gaussian splatting",
-      "object detection / segmentation",
-      "3D scene understanding",
-      "sensor calibration",
-      "SfM"
-    ],
-    "posted": "2026-09-29T03:59:33.658Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
     "dedupeKey": "job:59466475-3228-4fec-8d75-08096dc9601e",
     "companyId": "company_66921760e145eaf1a6f90fb2404d01c5",
     "company": "Centific",
@@ -6457,38 +6695,6 @@
     "companyBadges": [
       "$1.3B valuation",
       "Series D"
-    ]
-  },
-  {
-    "dedupeKey": "job:d17e4506-c865-44f2-84eb-8b9b2fbecb13",
-    "companyId": "company_8c529411bc82bdba1703ca5df2acec3c",
-    "company": "Intuitive",
-    "companyDomain": "intuitive.com",
-    "role": "AI Research Intern",
-    "applyUrl": "https://go.landed.jobs/nbzyyu1",
-    "location": "Sunnyvale, CA",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "intern",
-    "skills": [
-      "machine learning and/or deep learning methods",
-      "Python",
-      "deep learning frameworks such PyTorch, TensorFlow, and Caffe",
-      "deep learning models for language modelling and text retrieval",
-      "open-source LLM models and libraries (HuggingFace, LLaMa, LangChain, LlamaIndex, etc)",
-      "LLM/AI agent techniques",
-      "RLHF, DPO, finetuning, RAG, CoT, and multi-agent reasoning",
-      "model quantization, LLM edge hardware deployment, prompt engineering, and/or data synthesis"
-    ],
-    "posted": "2026-09-24T22:36:51.995Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$13.7B valuation"
     ]
   },
   {
@@ -6951,64 +7157,6 @@
     ]
   },
   {
-    "dedupeKey": "job:04e32c8a-c308-4de9-89ee-32a0aa5bf99e",
-    "companyId": "company_6cd957379a1b5ae0fdd1bfa0636841b4",
-    "company": "Together AI",
-    "companyDomain": "together.ai",
-    "role": "Research Intern, Frontier Agents (Winter 2027)",
-    "applyUrl": "https://go.landed.jobs/xr2l6bm",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "research_science",
-    "level": "intern",
-    "skills": [
-      "Machine Learning and Deep Learning fundamentals",
-      "deep learning frameworks (PyTorch, JAX, etc.)",
-      "how LLMs work",
-      "programming skills in Python",
-      "Transformer architectures"
-    ],
-    "posted": "2026-09-18T15:46:07.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$8.3B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:3b6eb139-ea49-4b99-981c-8c091fff5141",
-    "companyId": "company_6cd957379a1b5ae0fdd1bfa0636841b4",
-    "company": "Together AI",
-    "companyDomain": "together.ai",
-    "role": "Research Intern, Model Shaping (Winter 2027)",
-    "applyUrl": "https://go.landed.jobs/3f76jdi",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "research_science",
-    "level": "intern",
-    "skills": [
-      "Machine Learning and Deep Learning fundamentals",
-      "deep learning frameworks (PyTorch, JAX, etc.)",
-      "Transformer architecture",
-      "training foundation models or efficient machine learning",
-      "model optimization techniques and hardware acceleration approaches"
-    ],
-    "posted": "2026-09-18T15:45:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$8.3B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:444f3344-e00f-4b75-80b3-76baccd76980",
     "companyId": "company_6cd957379a1b5ae0fdd1bfa0636841b4",
     "company": "Together AI",
@@ -7087,32 +7235,6 @@
     "companyTier": "B",
     "companyBadges": [
       "YC F24",
-      "Seed"
-    ]
-  },
-  {
-    "dedupeKey": "job:0b7fbb87-1351-4a55-b28e-6a0d1079bd92",
-    "companyId": "company_43b21c091454083eead6779f9ff27b44",
-    "company": "Mbodi AI",
-    "companyDomain": "mbodi.ai",
-    "role": "Founding Research Engineer",
-    "applyUrl": "https://go.landed.jobs/rcsfbb7",
-    "location": "New York City, NY",
-    "locations": [
-      "New York City, NY"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "research_science",
-    "level": "",
-    "skills": [
-      "ML models",
-      "data pipelines"
-    ],
-    "posted": "2026-09-18T06:37:17.833Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "YC P25",
       "Seed"
     ]
   },
@@ -7454,75 +7576,6 @@
     ]
   },
   {
-    "dedupeKey": "job:37f52d43-3249-432c-ab74-aa9affc557a8",
-    "companyId": "company_455ee687bba04f8b3ad62686928252cd",
-    "company": "Visa",
-    "companyDomain": "visa.com",
-    "role": "Staff Research Scientist, Intern - PhD Agentic AI",
-    "applyUrl": "https://go.landed.jobs/myz4j4a",
-    "location": "Austin, TX",
-    "locations": [
-      "Austin, TX"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "intern",
-    "skills": [
-      "AI agents",
-      "multi-agent systems",
-      "agent frameworks",
-      "evaluation techniques",
-      "reducing hallucinations",
-      "enhancing factuality",
-      "guardrails",
-      "compression",
-      "quantization",
-      "fine-tuning",
-      "inference optimization"
-    ],
-    "posted": "2026-09-17T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:8674486f-45be-4bda-9c51-59a25db2a679",
-    "companyId": "company_455ee687bba04f8b3ad62686928252cd",
-    "company": "Visa",
-    "companyDomain": "visa.com",
-    "role": "Staff Research Scientist, Intern - PhD Foundational AI",
-    "applyUrl": "https://go.landed.jobs/vmfryir",
-    "location": "Foster City, CA",
-    "locations": [
-      "Foster City, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "intern",
-    "skills": [
-      "Generative AI",
-      "LLMs",
-      "deep learning",
-      "scalable ML",
-      "fine-tuning",
-      "model evaluation",
-      "AI agents",
-      "large-scale model training",
-      "efficient inference",
-      "distributed systems",
-      "Python",
-      "Hadoop"
-    ],
-    "posted": "2026-09-17T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:60e91e3f-f591-4b41-9d3d-bbfd901ed9c0",
     "companyId": "company_7f3f6ec28c2c05da0ba7aefccf23f61c",
     "company": "Watney",
@@ -7627,6 +7680,39 @@
     "companyTier": "C",
     "companyBadges": [
       "Seed"
+    ]
+  },
+  {
+    "dedupeKey": "job:d19eeebf-a790-4714-a76d-db05098b4aef",
+    "companyId": "company_496a9a7de0a1eb537f6db5d919ea81a0",
+    "company": "Intel",
+    "companyDomain": "intel.com",
+    "role": "Neuromorphic/AI Research Scientist",
+    "applyUrl": "https://go.landed.jobs/48qcryp",
+    "location": "Santa Clara, CA +4",
+    "locations": [
+      "Santa Clara, CA",
+      "Hillsboro, OR",
+      "Folsom, CA",
+      "Austin, TX",
+      "Phoenix, AZ"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "research_science",
+    "level": "mid",
+    "skills": [
+      "Python",
+      "C/C++",
+      "software development best practices (OO design, testing, debugging, documentation, version control, code reviews)",
+      "benchmarks, baselines, ablations, quantitative reporting",
+      "Hardware architecture and design"
+    ],
+    "posted": "2026-09-16T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$455B valuation"
     ]
   },
   {
@@ -7876,42 +7962,6 @@
     "companyTier": "B",
     "companyBadges": [
       "Series E"
-    ]
-  },
-  {
-    "dedupeKey": "job:b1d2c861-53f9-41f1-8482-172ab8d62f56",
-    "companyId": "company_f0420038f8afd946b21d16e6ca458c9f",
-    "company": "Illumio",
-    "companyDomain": "illumio.com",
-    "role": "Staff Security ML Researcher",
-    "applyUrl": "https://go.landed.jobs/gunl5w8",
-    "location": "Sunnyvale, CA",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "staff",
-    "skills": [
-      "machine learning",
-      "Python",
-      "Pandas",
-      "NumPy",
-      "Scikit-learn",
-      "TensorFlow",
-      "PyTorch",
-      "SQL",
-      "Neo4j",
-      "AWS",
-      "Kubernetes",
-      "graph databases"
-    ],
-    "posted": "2026-09-11T21:17:35.132Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Remote 200",
-      "$2.8B valuation"
     ]
   },
   {
@@ -8691,7 +8741,7 @@
     "companyId": "company_66921760e145eaf1a6f90fb2404d01c5",
     "company": "Centific",
     "companyDomain": "centific.com",
-    "role": "Principal Research Scientist – Vision AI, Simulation & Physical AI",
+    "role": "Principal AI Research Scientist",
     "applyUrl": "https://go.landed.jobs/4otx1ln",
     "location": "🌐 Remote (US)",
     "locations": [
@@ -8855,158 +8905,6 @@
     "companyTier": "C",
     "companyBadges": [
       "Seed"
-    ]
-  },
-  {
-    "dedupeKey": "job:7f38a61f-36a3-4c1d-bc34-20070fff515b",
-    "companyId": "company_bd53d6a4394ee39dde981f3fe7f0eaaf",
-    "company": "Attentive.ai",
-    "companyDomain": "attentive.ai",
-    "role": "Research Intern, Computer Vision",
-    "applyUrl": "https://go.landed.jobs/rdzjuvx",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "research_science",
-    "level": "intern",
-    "skills": [
-      "computer vision",
-      "deep learning",
-      "Python",
-      "PyTorch",
-      "TensorFlow",
-      "segmentation",
-      "self-supervised learning",
-      "representation learning",
-      "multimodal"
-    ],
-    "posted": "2026-08-31T06:55:14.280Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Series B"
-    ]
-  },
-  {
-    "dedupeKey": "job:d5cdf28d-33e9-4627-a593-b6c063cd1e61",
-    "companyId": "company_bd53d6a4394ee39dde981f3fe7f0eaaf",
-    "company": "Attentive.ai",
-    "companyDomain": "attentive.ai",
-    "role": "Research Scientist, Computer Vision",
-    "applyUrl": "https://go.landed.jobs/i0bqcr6",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "research_science",
-    "level": "mid",
-    "skills": [
-      "computer vision",
-      "deep learning",
-      "NLP",
-      "semantic segmentation",
-      "Python",
-      "PyTorch",
-      "GPU",
-      "distributed training"
-    ],
-    "posted": "2026-08-31T06:46:53.820Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Series B"
-    ]
-  },
-  {
-    "dedupeKey": "job:e1925454-f2d3-416c-9e6f-7e9d8f5b3c1b",
-    "companyId": "company_3a151945d7d42b92c0af66ddab5a8642",
-    "company": "Counsel Health",
-    "companyDomain": "counselhealth.com",
-    "role": "Research Scientist",
-    "applyUrl": "https://go.landed.jobs/s41rsa1",
-    "location": "New York City, NY · Boston, MA",
-    "locations": [
-      "New York City, NY",
-      "Boston, MA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "research_science",
-    "level": "senior",
-    "skills": [
-      "Python, JavaScript/TypeScript, or R",
-      "agentic generative AI systems, Large Language Models (LLMs), and evaluation methodologies",
-      "coding experience in Python, JavaScript/TypeScript, or R"
-    ],
-    "posted": "2026-08-28T20:07:47.375Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Series A"
-    ]
-  },
-  {
-    "dedupeKey": "job:0af25dd7-ab68-4f0b-b5f7-27b1980bee7b",
-    "companyId": "company_fed06e84cd457900de32e483e0a2bc5e",
-    "company": "Hudson River Trading",
-    "companyDomain": "hudsonrivertrading.com",
-    "role": "AI Researcher",
-    "applyUrl": "https://go.landed.jobs/juqrz63",
-    "location": "London, UK · New York City, NY",
-    "locations": [
-      "London, UK",
-      "New York City, NY"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "",
-    "skills": [
-      "deep learning",
-      "GPU kernel development",
-      "Pytorch",
-      "JAX",
-      "C++",
-      "FPGA",
-      "ASIC",
-      "HPC"
-    ],
-    "posted": "2026-08-28T09:29:29.000Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:500af1f1-7b06-4183-99c6-3865315e997b",
-    "companyId": "company_44e081c41c046d14b2ec70e8611e2b6f",
-    "company": "Yahoo",
-    "companyDomain": "yahooinc.com",
-    "role": "Senior Research Scientist",
-    "applyUrl": "https://go.landed.jobs/n01x6wj",
-    "location": "US",
-    "locations": [
-      "US"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "research_science",
-    "level": "principal",
-    "skills": [
-      "fine-tuning LLMs using LoRA or other parameter-efficient methods",
-      "knowledge distillation, model compression, and/or training smaller models from larger teacher models",
-      "LLMs for pseudo-labeling and synthetic data generation",
-      "building and evaluating LLM-based agents, including tool use, multi-agent orchestration, and reasoning workflows",
-      "AI pair-programming tools (e.g., GitHub Copilot, Cursor) or LLM workbench environments",
-      "building scalable data pipelines and training workflows for large datasets",
-      "large-scale distributed training and inference",
-      "agent frameworks, tool use, or multi-step reasoning systems",
-      "cloud platforms (GCP, AWS) and large-scale experimentation infrastructure"
-    ],
-    "posted": "2026-08-28T00:00:00.000Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "$5B valuation"
     ]
   }
 ]
