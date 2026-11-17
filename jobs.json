@@ -927,6 +927,35 @@
     ]
   },
   {
+    "dedupeKey": "job:4f4b04d7-981d-4926-b18f-5ce50429b614",
+    "companyId": "company_cf0f4f756728eba78dd85d7cf3358e9d",
+    "company": "Perplexity",
+    "companyDomain": "perplexity.ai",
+    "role": "Member of Technical Staff (Perplexity Frontier Research)",
+    "applyUrl": "https://go.landed.jobs/wkjirq9",
+    "location": "🌐 Remote (US, UK, Germany)",
+    "locations": [
+      "New York City, NY",
+      "Palo Alto, CA",
+      "London, UK",
+      "San Francisco, CA",
+      "Berlin, Germany"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "research_science",
+    "level": "staff",
+    "skills": [
+      "Python"
+    ],
+    "posted": "2026-11-04T21:28:24.737Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$18B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:56c3e760-6e90-473c-9f1b-4518fe4d7821",
     "companyId": "company_3466d047dd0863dfd8d2e4351a08fd8e",
     "company": "KoBold Metals",
@@ -1811,41 +1840,6 @@
     ]
   },
   {
-    "dedupeKey": "job:b4e9bf14-2102-41aa-9143-b4e29635cc63",
-    "companyId": "company_360220ea93a91c899b62cb937583292e",
-    "company": "Scale AI",
-    "companyDomain": "scale.com",
-    "role": "AI Safety Residency — Scale Labs Preparedness & Policy (SLPreP)",
-    "applyUrl": "https://go.landed.jobs/bkirwoz",
-    "location": "🌐 Remote (Canada, UK, US)",
-    "locations": [
-      "Canada",
-      "UK",
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "research_science",
-    "level": "",
-    "skills": [
-      "controlled experiments",
-      "evaluation harnesses",
-      "agent environments",
-      "datasets",
-      "monitoring methods",
-      "post-training experiments",
-      "reproducible code",
-      "experiment logs",
-      "technical writing"
-    ],
-    "posted": "2026-10-16T18:44:43.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "YC S16",
-      "$29B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:3af19b3b-e070-4e86-93d7-144fa3a92257",
     "companyId": "company_6ec584c4f8842dcd65aca977e25d6097",
     "company": "Snorkel AI",
@@ -1872,6 +1866,31 @@
     "companyBadges": [
       "$1.3B valuation",
       "Series D"
+    ]
+  },
+  {
+    "dedupeKey": "job:5e82dc06-3f96-4129-9fef-1e218fa94829",
+    "companyId": "company_b8a47c7e48c41f0470223b18889960d0",
+    "company": "Bms",
+    "companyDomain": "bms.com",
+    "role": "Principal Scientist, Translational AI Foundations",
+    "applyUrl": "https://go.landed.jobs/93v7252",
+    "location": "US",
+    "locations": [
+      "US"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "research_science",
+    "level": "principal",
+    "skills": [
+      "AI agents",
+      "LLM"
+    ],
+    "posted": "2026-11-13T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
     ]
   },
   {
@@ -3160,163 +3179,46 @@
     ]
   },
   {
-    "dedupeKey": "job:0a76cb09-fdf6-43bd-b954-9a21b50c5fed",
-    "companyId": "company_7b07abd6a666428b7b4295fcdcea6180",
-    "company": "Heartflow",
-    "companyDomain": "heartflow.com",
-    "role": "Principal Clinical Engineer – AI Performance & Investigations",
-    "applyUrl": "https://go.landed.jobs/otkbdba",
-    "location": "San Francisco, CA",
+    "dedupeKey": "job:f49232bb-6db7-4622-b7b5-f372e580612c",
+    "companyId": "company_b4c385db9a465ac4b284e2b00bb828ff",
+    "company": "Continual Research",
+    "companyDomain": "continualresearch.com",
+    "role": "AI Researcher",
+    "applyUrl": "https://go.landed.jobs/jgsraxb",
+    "location": "New York City, NY",
     "locations": [
-      "San Francisco, CA"
+      "New York City, NY"
     ],
-    "remote": "hybrid",
+    "remote": "",
     "region": "us",
     "family": "research_science",
-    "level": "principal",
-    "skills": [
-      "CT",
-      "plaque",
-      "FFRct",
-      "AI/ML",
-      "coronary CT",
-      "CT angiography (CCTA)",
-      "coronary plaque characterization",
-      "atherosclerosis imaging",
-      "FDA MDR (21 CFR Part 803)",
-      "EU MDR vigilance",
-      "FDA QMSR (21 CFR Part 820)",
-      "ISO 13485"
-    ],
-    "posted": "2026-10-17T03:10:58.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$1.3B valuation",
-      "Public"
-    ]
+    "level": "mid",
+    "skills": [],
+    "posted": "2026-11-16T20:11:26.040Z",
+    "companyTier": "U",
+    "companyBadges": []
   },
   {
-    "dedupeKey": "job:fac3a4d5-a7c1-47df-9292-df65b31ef1a9",
-    "companyId": "company_5a88a572032e02e5ba9bac726560bfe5",
-    "company": "Prime Intellect",
-    "companyDomain": "primeintellect.ai",
-    "role": "Research Engineer - Data and Evaluation",
-    "applyUrl": "https://go.landed.jobs/5b49bw3",
-    "location": "🌐 Remote (US)",
+    "dedupeKey": "job:a57e29b9-ffbd-49dc-ba2f-6adbee17279b",
+    "companyId": "company_95f91deaf060fbd469a8033c0d98db79",
+    "company": "Aptura",
+    "companyDomain": "aptura.ai",
+    "role": "FP&A AI Research Contributor",
+    "applyUrl": "https://go.landed.jobs/3q1ta1b",
+    "location": "🌐 Remote (Worldwide)",
     "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "research_science",
-    "level": "senior",
-    "skills": [
-      "Python",
-      "data pipelines",
-      "evaluation systems",
-      "ML workflows",
-      "language models",
-      "agents",
-      "RL",
-      "post-training data"
-    ],
-    "posted": "2026-10-16T14:44:39.894Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$1B valuation",
-      "Series A"
-    ]
-  },
-  {
-    "dedupeKey": "job:038b574a-9961-4984-a43e-bd7ca5189c17",
-    "companyId": "company_5a88a572032e02e5ba9bac726560bfe5",
-    "company": "Prime Intellect",
-    "companyDomain": "primeintellect.ai",
-    "role": "Research Engineer - Pre-training",
-    "applyUrl": "https://go.landed.jobs/n786xw9",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "research_science",
-    "level": "senior",
-    "skills": [
-      "Python",
-      "PyTorch",
-      "distributed training",
-      "model architectures",
-      "optimization"
-    ],
-    "posted": "2026-10-16T14:44:39.749Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$1B valuation",
-      "Series A"
-    ]
-  },
-  {
-    "dedupeKey": "job:213d3e8e-c126-4fec-93ee-55b4b8c62014",
-    "companyId": "company_5a88a572032e02e5ba9bac726560bfe5",
-    "company": "Prime Intellect",
-    "companyDomain": "primeintellect.ai",
-    "role": "Research Engineer - Inference",
-    "applyUrl": "https://go.landed.jobs/3j1lx9m",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "research_science",
-    "level": "senior",
-    "skills": [
-      "GPU inference systems",
-      "Python",
-      "PyTorch",
-      "ML framework",
-      "vLLM",
-      "CUDA",
-      "Triton kernel"
-    ],
-    "posted": "2026-10-16T14:44:28.971Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$1B valuation",
-      "Series A"
-    ]
-  },
-  {
-    "dedupeKey": "job:22bd0a44-974c-4715-aa47-fbe25206ddbc",
-    "companyId": "company_5a88a572032e02e5ba9bac726560bfe5",
-    "company": "Prime Intellect",
-    "companyDomain": "primeintellect.ai",
-    "role": "Research Engineer / Scientist - Reinforcement Learning",
-    "applyUrl": "https://go.landed.jobs/5f9wc17",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "San Francisco, CA"
+      "Global"
     ],
     "remote": "remote",
     "region": "remote",
     "family": "ai_machine_learning",
-    "level": "senior",
+    "level": "mid",
     "skills": [
-      "RL algorithms",
-      "empirical research on model training",
-      "distributed ML systems",
-      "Python",
-      "PyTorch",
-      "distributed training frameworks",
-      "asynchronous rollout pipelines"
+      "AI agents"
     ],
-    "posted": "2026-10-16T13:54:28.845Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$1B valuation",
-      "Series A"
-    ]
+    "posted": "2026-11-15T15:58:43.898Z",
+    "companyTier": "U",
+    "companyBadges": []
   },
   {
     "dedupeKey": "job:e47e1247-f211-4f58-8f1d-5f30618a3a64",
@@ -5748,34 +5650,6 @@
     ]
   },
   {
-    "dedupeKey": "job:a57a5a4a-19ac-43c8-b18c-18e06ab5d8a8",
-    "companyId": "company_95f91deaf060fbd469a8033c0d98db79",
-    "company": "Aptura",
-    "companyDomain": "aptura.ai",
-    "role": "Investment Banking AI Research Contributor",
-    "applyUrl": "https://go.landed.jobs/upwuy3x",
-    "location": "🌐 Remote (Worldwide)",
-    "locations": [
-      "Global"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "research_science",
-    "level": "mid",
-    "skills": [
-      "Excel",
-      "merger models",
-      "pro formas",
-      "purchase accounting",
-      "precedent transactions",
-      "football fields",
-      "financial functions"
-    ],
-    "posted": "2026-10-19T15:01:24.294Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
     "dedupeKey": "job:06abe33b-e4a2-4684-bde6-daeb555eb8b1",
     "companyId": "company_0f0326b1497d4604cec115756678f8b9",
     "company": "Volga Partners",
@@ -5819,6 +5693,42 @@
     "companyBadges": []
   },
   {
+    "dedupeKey": "job:0a76cb09-fdf6-43bd-b954-9a21b50c5fed",
+    "companyId": "company_7b07abd6a666428b7b4295fcdcea6180",
+    "company": "Heartflow",
+    "companyDomain": "heartflow.com",
+    "role": "Principal Clinical Engineer – AI Performance & Investigations",
+    "applyUrl": "https://go.landed.jobs/otkbdba",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "research_science",
+    "level": "principal",
+    "skills": [
+      "CT",
+      "plaque",
+      "FFRct",
+      "AI/ML",
+      "coronary CT",
+      "CT angiography (CCTA)",
+      "coronary plaque characterization",
+      "atherosclerosis imaging",
+      "FDA MDR (21 CFR Part 803)",
+      "EU MDR vigilance",
+      "FDA QMSR (21 CFR Part 820)",
+      "ISO 13485"
+    ],
+    "posted": "2026-10-17T03:10:58.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$1.3B valuation",
+      "Public"
+    ]
+  },
+  {
     "dedupeKey": "job:83c46140-a0c4-4e17-87fd-50c16593392e",
     "companyId": "company_a3a52f19b03c26e68e03090f49b6d9e5",
     "company": "Embedding VC",
@@ -5842,6 +5752,164 @@
     "posted": "2026-10-16T23:38:20.543Z",
     "companyTier": "U",
     "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:b4e9bf14-2102-41aa-9143-b4e29635cc63",
+    "companyId": "company_360220ea93a91c899b62cb937583292e",
+    "company": "Scale AI",
+    "companyDomain": "scale.com",
+    "role": "AI Safety Residency — Scale Labs Preparedness & Policy (SLPreP)",
+    "applyUrl": "https://go.landed.jobs/bkirwoz",
+    "location": "🌐 Remote (Canada, UK, US)",
+    "locations": [
+      "Canada",
+      "UK",
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "research_science",
+    "level": "",
+    "skills": [
+      "controlled experiments",
+      "evaluation harnesses",
+      "agent environments",
+      "datasets",
+      "monitoring methods",
+      "post-training experiments",
+      "reproducible code",
+      "experiment logs",
+      "technical writing"
+    ],
+    "posted": "2026-10-16T18:44:43.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "YC S16",
+      "$29B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:fac3a4d5-a7c1-47df-9292-df65b31ef1a9",
+    "companyId": "company_5a88a572032e02e5ba9bac726560bfe5",
+    "company": "Prime Intellect",
+    "companyDomain": "primeintellect.ai",
+    "role": "Research Engineer - Data and Evaluation",
+    "applyUrl": "https://go.landed.jobs/5b49bw3",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "research_science",
+    "level": "senior",
+    "skills": [
+      "Python",
+      "data pipelines",
+      "evaluation systems",
+      "ML workflows",
+      "language models",
+      "agents",
+      "RL",
+      "post-training data"
+    ],
+    "posted": "2026-10-16T14:44:39.894Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$1B valuation",
+      "Series A"
+    ]
+  },
+  {
+    "dedupeKey": "job:038b574a-9961-4984-a43e-bd7ca5189c17",
+    "companyId": "company_5a88a572032e02e5ba9bac726560bfe5",
+    "company": "Prime Intellect",
+    "companyDomain": "primeintellect.ai",
+    "role": "Research Engineer - Pre-training",
+    "applyUrl": "https://go.landed.jobs/n786xw9",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "research_science",
+    "level": "senior",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "distributed training",
+      "model architectures",
+      "optimization"
+    ],
+    "posted": "2026-10-16T14:44:39.749Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$1B valuation",
+      "Series A"
+    ]
+  },
+  {
+    "dedupeKey": "job:213d3e8e-c126-4fec-93ee-55b4b8c62014",
+    "companyId": "company_5a88a572032e02e5ba9bac726560bfe5",
+    "company": "Prime Intellect",
+    "companyDomain": "primeintellect.ai",
+    "role": "Research Engineer - Inference",
+    "applyUrl": "https://go.landed.jobs/3j1lx9m",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "research_science",
+    "level": "senior",
+    "skills": [
+      "GPU inference systems",
+      "Python",
+      "PyTorch",
+      "ML framework",
+      "vLLM",
+      "CUDA",
+      "Triton kernel"
+    ],
+    "posted": "2026-10-16T14:44:28.971Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$1B valuation",
+      "Series A"
+    ]
+  },
+  {
+    "dedupeKey": "job:22bd0a44-974c-4715-aa47-fbe25206ddbc",
+    "companyId": "company_5a88a572032e02e5ba9bac726560bfe5",
+    "company": "Prime Intellect",
+    "companyDomain": "primeintellect.ai",
+    "role": "Research Engineer / Scientist - Reinforcement Learning",
+    "applyUrl": "https://go.landed.jobs/5f9wc17",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "ai_machine_learning",
+    "level": "senior",
+    "skills": [
+      "RL algorithms",
+      "empirical research on model training",
+      "distributed ML systems",
+      "Python",
+      "PyTorch",
+      "distributed training frameworks",
+      "asynchronous rollout pipelines"
+    ],
+    "posted": "2026-10-16T13:54:28.845Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$1B valuation",
+      "Series A"
+    ]
   },
   {
     "dedupeKey": "job:4c7d65ad-837d-49e9-ad1a-d678781977e4",
@@ -8480,94 +8548,6 @@
     "companyTier": "B",
     "companyBadges": [
       "YC P25",
-      "Seed"
-    ]
-  },
-  {
-    "dedupeKey": "job:b6f5d605-f5f8-4471-b683-aeb7e1b8270e",
-    "companyId": "company_b89a91ce8d463fe0775469f720663bf3",
-    "company": "Aktoria Robotics",
-    "companyDomain": "aktoria.com",
-    "role": "Robot Learning Researcher (VLA / Foundation Models)",
-    "applyUrl": "https://go.landed.jobs/4jflacd",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "research_science",
-    "level": "",
-    "skills": [
-      "train / fine-tune VLAs and robot foundation models",
-      "data-quality ablations and scaling studies",
-      "training IL/VLA policies at scale"
-    ],
-    "posted": "2026-09-18T06:30:04.730Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "YC S26",
-      "Seed"
-    ]
-  },
-  {
-    "dedupeKey": "job:ec8b2834-0fc3-4750-aa9b-59d289d1755c",
-    "companyId": "company_c7a874d9f5ae840b858a32170954a707",
-    "company": "Relari",
-    "companyDomain": "relari.ai",
-    "role": "Research Engineer, Human Biomechanics",
-    "applyUrl": "https://go.landed.jobs/5w5sb1x",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "research_science",
-    "level": "mid",
-    "skills": [
-      "biomechanical or physiological data",
-      "EMG",
-      "force",
-      "pressure",
-      "tactile sensing",
-      "motion capture",
-      "signal processing",
-      "statistics",
-      "time-series modeling",
-      "sensor fusion",
-      "machine learning"
-    ],
-    "posted": "2026-09-18T06:26:31.513Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "YC W24",
-      "Seed"
-    ]
-  },
-  {
-    "dedupeKey": "job:d4bb43be-6605-4f21-bc00-304d24632444",
-    "companyId": "company_7df0647cb1f5f3af60eb1681e1d0cbdd",
-    "company": "arnata",
-    "companyDomain": "arnata.com",
-    "role": "AI Researcher",
-    "applyUrl": "https://go.landed.jobs/7yppxvf",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "ai_machine_learning",
-    "level": "",
-    "skills": [
-      "NLP",
-      "LLMs"
-    ],
-    "posted": "2026-09-18T06:25:09.353Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "YC W21",
       "Seed"
     ]
   }
