@@ -1,5 +1,30 @@
 [
   {
+    "dedupeKey": "job:79e00b24-9abe-46e6-930f-6f5bb7994dde",
+    "companyId": "company_35c950f8cc62e891728aff2c5bca0931",
+    "company": "Thinking Machines Lab",
+    "companyDomain": "thinkingmachines.ai",
+    "role": "Research, Model Behavior",
+    "applyUrl": "https://go.landed.jobs/p0cr90c",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "research_science",
+    "level": "",
+    "skills": [
+      "large language models"
+    ],
+    "posted": "2026-11-24T18:19:36.628Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "$10B valuation",
+      "Seed"
+    ]
+  },
+  {
     "dedupeKey": "job:6ac7af4b-431e-45ce-babe-3e7ddb5cb902",
     "companyId": "company_bb438e1309fd5686c78f3282ad4de532",
     "company": "OpenAI",
@@ -1800,40 +1825,6 @@
     ]
   },
   {
-    "dedupeKey": "job:a7fd3dcd-48bd-4fa2-8a85-b027cbfc67dc",
-    "companyId": "company_fadb933e10d3fc3dba65bdde4c675c1d",
-    "company": "Cisco",
-    "companyDomain": "cisco.com",
-    "role": "AI Researcher II (Intern) - United States",
-    "applyUrl": "https://go.landed.jobs/2xur957",
-    "location": "San Francisco, CA +2",
-    "locations": [
-      "San Francisco, CA",
-      "Milpitas, CA",
-      "San Jose, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "research_science",
-    "level": "intern",
-    "skills": [
-      "large language models",
-      "Python",
-      "PyTorch",
-      "fine-tuning",
-      "AWS",
-      "Azure",
-      "Kubernetes",
-      "Docker",
-      "vLLM"
-    ],
-    "posted": "2026-11-19T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:113c5aeb-f188-4ddf-b4af-0bd2d73e1679",
     "companyId": "company_a3fff0666489d5bc28291e29eebdfb11",
     "company": "Prolific",
@@ -2019,6 +2010,31 @@
     "skills": [
       "AI agents",
       "LLM"
+    ],
+    "posted": "2026-11-13T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:d89c3028-f3b3-4748-b4a1-e3719cc8f905",
+    "companyId": "company_fadb933e10d3fc3dba65bdde4c675c1d",
+    "company": "Cisco",
+    "companyDomain": "cisco.com",
+    "role": "AI Safety & Reasoning Engineer (Reasoning Transparency)",
+    "applyUrl": "https://go.landed.jobs/tqym5qa",
+    "location": "US · San Jose, CA",
+    "locations": [
+      "US",
+      "San Jose, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "research_science",
+    "level": "senior",
+    "skills": [
+      "Python"
     ],
     "posted": "2026-11-13T00:00:00.000Z",
     "companyTier": "B",
@@ -2986,6 +3002,76 @@
     "companyBadges": [
       "$5.6B valuation",
       "Series E"
+    ]
+  },
+  {
+    "dedupeKey": "job:129a54e3-7b28-4e5b-8196-d55b66622884",
+    "companyId": "company_819e91ba294b66fe7084f78390e33955",
+    "company": "Arcadia Science",
+    "companyDomain": "arcadiascience.com",
+    "role": "Microscopy Machine Learning Scientist",
+    "applyUrl": "https://go.landed.jobs/0azkftt",
+    "location": "Emeryville, CA",
+    "locations": [
+      "Emeryville, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "research_science",
+    "level": "",
+    "skills": [
+      "computer vision"
+    ],
+    "posted": "2026-11-24T19:45:33.000Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:4d8d14e0-1418-4077-9a0a-1b9d36e4e108",
+    "companyId": "company_a05bd45f497b34674abe782c685e0c7a",
+    "company": "Voyager Space",
+    "companyDomain": "voyagertechnologies.com",
+    "role": "Senior Scientific ML Engineer – Neural Operators, PINNs & Uncertainty Quantification",
+    "applyUrl": "https://go.landed.jobs/s2qt075",
+    "location": "US",
+    "locations": [
+      "US"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "senior",
+    "skills": [],
+    "posted": "2026-11-24T18:25:50.000Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:fb5f28df-0ea7-4223-aa17-13f4cdb7eee7",
+    "companyId": "company_9a672e6ea5a1c563ee7962aa7878bdc8",
+    "company": "Archetype AI",
+    "companyDomain": "archetypeai.io",
+    "role": "Applied Researcher, Vision & Video Foundation Models",
+    "applyUrl": "https://go.landed.jobs/qtba3qz",
+    "location": "San Mateo, CA",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "research_science",
+    "level": "senior",
+    "skills": [
+      "computer vision",
+      "Python",
+      "PyTorch"
+    ],
+    "posted": "2026-11-24T00:16:10.084Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series A"
     ]
   },
   {
@@ -8163,141 +8249,6 @@
     "companyBadges": [
       "TrueUp Power 50",
       "$455B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:59466475-3228-4fec-8d75-08096dc9601e",
-    "companyId": "company_66921760e145eaf1a6f90fb2404d01c5",
-    "company": "Centific",
-    "companyDomain": "centific.com",
-    "role": "Principal Research Scientist, Reinforcement Learning",
-    "applyUrl": "https://go.landed.jobs/3pu29nf",
-    "location": "East Palo Alto, CA",
-    "locations": [
-      "East Palo Alto, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "research_science",
-    "level": "principal",
-    "skills": [
-      "RLHF",
-      "DPO",
-      "GRPO",
-      "PPO",
-      "Python",
-      "Gymnasium-based environments",
-      "reward engineering",
-      "Offline RL",
-      "Model-based RL / World Models",
-      "Hierarchical RL"
-    ],
-    "posted": "2026-09-29T00:00:00.000Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Series A"
-    ]
-  },
-  {
-    "dedupeKey": "job:a9bf6c51-8fd7-499d-84c8-c8640a2c6705",
-    "companyId": "company_fcc5fbd15066cca272832fe066aee72b",
-    "company": "FAR.AI",
-    "companyDomain": "far.ai",
-    "role": "Research Scientist, Applied White-Box Methods",
-    "applyUrl": "https://go.landed.jobs/4llmh82",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Berkeley, CA",
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "research_science",
-    "level": "",
-    "skills": [
-      "white-box method",
-      "activation explainers",
-      "SAEs",
-      "steering",
-      "attribution",
-      "influence functions",
-      "probes",
-      "evaluations",
-      "AI control",
-      "red-teaming",
-      "reinforcement learning",
-      "post-training of LLMs"
-    ],
-    "posted": "2026-09-28T19:45:56.671Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:8723fb36-f4b0-4507-894f-84d1d4cee308",
-    "companyId": "company_b747cdca6ab0a7fcaf603d2af64c7f02",
-    "company": "PostEra",
-    "companyDomain": "postera.ai",
-    "role": "Machine Learning Researcher - Agentic Science",
-    "applyUrl": "https://go.landed.jobs/thy4x3a",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Remote"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "ai_machine_learning",
-    "level": "",
-    "skills": [
-      "machine learning",
-      "deep learning",
-      "statistical modeling",
-      "Python",
-      "PyTorch",
-      "JAX",
-      "agentic systems",
-      "in-context learning",
-      "foundation models",
-      "multimodal data",
-      "biological data",
-      "biochemical data"
-    ],
-    "posted": "2026-09-28T19:02:28.738Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:b77b37d5-062e-458c-ab9a-d476405cfb60",
-    "companyId": "company_785e628c3f3b8fd3f0339f463a194c05",
-    "company": "IDC",
-    "companyDomain": "idc.com",
-    "role": "Vice President Research, AI Planning and Operations",
-    "applyUrl": "https://go.landed.jobs/s9sltz1",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "research_science",
-    "level": "vp",
-    "skills": [
-      "investment prioritization",
-      "budgeting",
-      "forecasting",
-      "cost management",
-      "value realization",
-      "benchmarks",
-      "case studies",
-      "AI budgets",
-      "investment models",
-      "unit economics",
-      "sensitivity analysis",
-      "generative AI"
-    ],
-    "posted": "2026-09-28T04:00:00.000Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "$1.3B valuation"
     ]
   }
 ]
