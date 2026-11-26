@@ -3706,6 +3706,33 @@
     ]
   },
   {
+    "dedupeKey": "job:7e71e3d6-0059-425f-b7ed-1b82259bdfd8",
+    "companyId": "company_66921760e145eaf1a6f90fb2404d01c5",
+    "company": "Centific",
+    "companyDomain": "centific.com",
+    "role": "AI Research Engineer: Vision AI / VLM / Physical AI",
+    "applyUrl": "https://go.landed.jobs/rp0pz20",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "ai_machine_learning",
+    "level": "",
+    "skills": [
+      "LLMs",
+      "RAG",
+      "vector databases",
+      "Computer Vision"
+    ],
+    "posted": "2026-11-17T00:00:00.000Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series A"
+    ]
+  },
+  {
     "dedupeKey": "job:f49232bb-6db7-4622-b7b5-f372e580612c",
     "companyId": "company_b4c385db9a465ac4b284e2b00bb828ff",
     "company": "Continual Research",
@@ -3795,6 +3822,37 @@
     "posted": "2026-11-16T15:28:53.371Z",
     "companyTier": "U",
     "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:25766038-e340-46c3-a40e-8f50f4a1b6be",
+    "companyId": "company_068513930fd0ce14faebc7cf95c8d39f",
+    "company": "Maxar",
+    "companyDomain": "maxar.com",
+    "role": "Principal R&D Scientist",
+    "applyUrl": "https://go.landed.jobs/e8dz9n0",
+    "location": "Westminster, CO",
+    "locations": [
+      "Westminster, CO"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "principal",
+    "skills": [
+      "go",
+      "LLMs",
+      "Computer vision",
+      "Python",
+      "PyTorch",
+      "TensorFlow",
+      "model evaluation",
+      "fine-tuning"
+    ],
+    "posted": "2026-11-16T00:00:00.000Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "$6.4B valuation"
+    ]
   },
   {
     "dedupeKey": "job:a57e29b9-ffbd-49dc-ba2f-6adbee17279b",
@@ -7677,6 +7735,41 @@
     ]
   },
   {
+    "dedupeKey": "job:47e320d3-46d3-4f3f-b624-5ee8471eeca7",
+    "companyId": "company_0b9d77e101e979c1c4863fe7236844f6",
+    "company": "Ancestry",
+    "companyDomain": "ancestry.com",
+    "role": "Postdoctoral Fellow, Applied AI",
+    "applyUrl": "https://go.landed.jobs/ev46ec8",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Remote"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "research_science",
+    "level": "",
+    "skills": [
+      "LangChain",
+      "LangGraph",
+      "CrewAI",
+      "AutoGen",
+      "GPT",
+      "Gemini",
+      "Claude",
+      "Llama",
+      "Qwen",
+      "spaCy",
+      "NLTK",
+      "BERT"
+    ],
+    "posted": "2026-10-05T00:00:00.000Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "$4.7B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:b3df0b4e-d839-49c9-9066-3f2c612ff5cc",
     "companyId": "company_7dd77b99f0e1f0efff22cb24fc538430",
     "company": "Pangram Labs",
@@ -8119,105 +8212,5 @@
       "TrueUp Power 50",
       "$455B valuation"
     ]
-  },
-  {
-    "dedupeKey": "job:59466475-3228-4fec-8d75-08096dc9601e",
-    "companyId": "company_66921760e145eaf1a6f90fb2404d01c5",
-    "company": "Centific",
-    "companyDomain": "centific.com",
-    "role": "Principal Research Scientist, Reinforcement Learning",
-    "applyUrl": "https://go.landed.jobs/3pu29nf",
-    "location": "East Palo Alto, CA",
-    "locations": [
-      "East Palo Alto, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "research_science",
-    "level": "principal",
-    "skills": [
-      "RLHF",
-      "DPO",
-      "GRPO",
-      "PPO",
-      "Python",
-      "Gymnasium-based environments",
-      "reward engineering",
-      "Offline RL",
-      "Model-based RL / World Models",
-      "Hierarchical RL"
-    ],
-    "posted": "2026-09-29T00:00:00.000Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Series A"
-    ]
-  },
-  {
-    "dedupeKey": "job:a9bf6c51-8fd7-499d-84c8-c8640a2c6705",
-    "companyId": "company_fcc5fbd15066cca272832fe066aee72b",
-    "company": "FAR.AI",
-    "companyDomain": "far.ai",
-    "role": "Research Scientist, Applied White-Box Methods",
-    "applyUrl": "https://go.landed.jobs/4llmh82",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Berkeley, CA",
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "research_science",
-    "level": "",
-    "skills": [
-      "white-box method",
-      "activation explainers",
-      "SAEs",
-      "steering",
-      "attribution",
-      "influence functions",
-      "probes",
-      "evaluations",
-      "AI control",
-      "red-teaming",
-      "reinforcement learning",
-      "post-training of LLMs"
-    ],
-    "posted": "2026-09-28T19:45:56.671Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:8723fb36-f4b0-4507-894f-84d1d4cee308",
-    "companyId": "company_b747cdca6ab0a7fcaf603d2af64c7f02",
-    "company": "PostEra",
-    "companyDomain": "postera.ai",
-    "role": "Machine Learning Researcher - Agentic Science",
-    "applyUrl": "https://go.landed.jobs/thy4x3a",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Remote"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "ai_machine_learning",
-    "level": "",
-    "skills": [
-      "machine learning",
-      "deep learning",
-      "statistical modeling",
-      "Python",
-      "PyTorch",
-      "JAX",
-      "agentic systems",
-      "in-context learning",
-      "foundation models",
-      "multimodal data",
-      "biological data",
-      "biochemical data"
-    ],
-    "posted": "2026-09-28T19:02:28.738Z",
-    "companyTier": "U",
-    "companyBadges": []
   }
 ]
